@@ -1,0 +1,56 @@
+
+we want to obtain:
+
+allTriples.txt
+train.txt: head, relation , tail  
+test.txt: if a pair of triple has multiple relations, put one of relations on txst set
+
+
+Enity 
+{
+  id = []
+  symbol = []  
+  lable = []
+  descriple = []
+  
+
+}
+
+
+
+Triple 
+{
+
+  head_entity = []  
+  relation_set  = list[] 
+  tail_entity = []
+  num_relations = len(relation_set)
+   
+
+
+}
+
+输出
+从relation——set 随机选择一个最为测试，其他的作为训练
+
+文章中 FB15K
+Rel 1345
+Ent 14951
+
+train 483142
+test 59071
+valid 50000
+
+实际程序中：
+
+all_triples 一共 592213 个triple
+numble relation  1346
+numble entity  14951
+
+一共有467266 entity pair
+
+/m/09v3jyg	/film/film/release_date_s./film/film_regional_release_date/film_release_region	/m/0f8l9c
+
+
+triple对的表示：
+头实体label，实体描述，关系集合，尾实体label，尾实体描述
