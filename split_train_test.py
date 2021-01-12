@@ -39,50 +39,67 @@ def set_entity_pair(dataArry,entityPair_set):
     num_entity_pair = len(entityPair_set)
     Pair_list = []
     entiObjset = obtain_entity_obj()
+    symb_list = []
+    for entiobj in entiObjset:
+        symb_list.append(entiobj.symb)
+
+    # print((symb_list))
+
+    h_data = dataArry[:,0]
+    t_data = dataArry[:,2]
 
     for i in range(num_entity_pair):
+        print(i)
         # 获取关系
         rel_set = []
         head = entityPair_set[i][0]
         tail = entityPair_set[i][1]
+        """
         for t in range(len(dataArry)):
             if head == dataArry[t][0] and tail == dataArry[t][2]:
                 rel_set.append(dataArry[t][1])
+        """
 
+        index_h = [i for i, x in enumerate(h_data) if x == head]
+        index_t = [i for i, x in enumerate(t_data) if x == tail]
 
-        #
+        com_index = [i for i in index_h if i in index_t]
+        # print(com_index)
+        for index in com_index:
+            rel_set.append(dataArry[index][1])
+
+        # print(head)
+        # print(rel_set)
+        # print(tail)
+
+        # print("rel_set", rel_set)
 
 
         # 封装对象
         _entityPair_h = None
         _entityPair_t = None
 
-        for entiobj_h in entiObjset:
-            if entiobj_h.symb == head:
-                _entityPair_h = entiobj_h
-                break
-
-        if _entityPair_h==None:
+        if head in symb_list:
+            _entityPair_h = entiObjset[symb_list.index(head)]
+        else:
             _entityPair_h= Enti(_id=None,_symbal=head,_lable=None,_description=None)
 
-        for entiobj_t in entiObjset:
-            if entiobj_t.symb == tail:
-                _entityPair_t = entiobj_t
-                break
-        # 实体集合中没有，重新创建
-        if _entityPair_t==None:
+        if tail in symb_list:
+            _entityPair_t = entiObjset[symb_list.index(tail)]
+
+        else:
             _entityPair_t= Enti(_id=None,_symbal=tail,_lable=None,_description=None)
 
 
 
         pair = EntiPairObj(h_EntiObj=_entityPair_h,relation_list=rel_set, t_EntiObj=_entityPair_t)
-        """
-        print("-------------------------------")
-        print("Head  lab \n",pair.H_Enti.lable)
-        print("Relations \n",pair.Relset)
-        print("Tail lab \n",pair.T_Enti.lable)
-        """
 
+        """
+        print("Head lab,symb \n",pair.H_Enti.lable,pair.H_Enti.symb)
+        print("Relations \n",pair.Relset)
+        print("Tail lab \n",pair.T_Enti.lable,pair.T_Enti.symb)
+        print("-------------------------------")
+        """
         Pair_list.append(pair)
 
 
@@ -92,22 +109,24 @@ def set_entity_pair(dataArry,entityPair_set):
 
 def split_test_train(pair_set,train_file_path,test_file_path):
 
-
-
-
     num = len(pair_set)
     print(num)
 
     try:
         f_train = open(train_file_path,  'w')
         f_test = open(test_file_path,  'w')
+        f_all_entityPairs = open('./f_all_entityPairs.txt',  'w')
 
     except IOError as err:
         print('file open error: {0}'.format(err))
 
     else:
+
         for i in range(pair_set):
             X = pair_set[i]
+
+            f_all_entityPairs.writelines(['%s \t %s \t %s \t %s \t %s\t \n'% (X.H_Enti.symb,X.H_Enti.lable, X.Relset[x], X.T_Enti.symb, X.T_Enti.lable) for x in range(len(X.num_relations))])
+
             if X.num_relations > 1:
                 index = np.random.random_integers(0,X.num_relations - 1)
 
@@ -122,8 +141,7 @@ def split_test_train(pair_set,train_file_path,test_file_path):
 
         f_train.close()
         f_test.close()
-
-
+        f_all_entityPairs.close()
 
 
 if  __name__=='__main__':
