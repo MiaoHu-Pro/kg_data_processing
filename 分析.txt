@@ -1,0 +1,117 @@
+
+
+
+/m/02b1xy
+['/sports/sports_team/roster./soccer/football_roster_position/position', '/soccer/football_team/current_roster./soccer/football_roster_position/position', '/sports/sports_team/roster./sports/sports_team_roster/position', '/soccer/football_team/current_roster./sports/sports_team_roster/position']
+/m/02_j1w
+
+Head lab,symb
+ Arbroath F.C. /m/02b1xy
+Relations
+ ['/sports/sports_team/roster./soccer/football_roster_position/position', '/soccer/football_team/current_roster./soccer/football_roster_position/position', '/sports/sports_team/roster./sports/sports_team_roster/position', '/soccer/football_team/current_roster./sports/sports_team_roster/position']
+Tail lab
+ defender /m/02_j1w
+
+
+ /m/0mp08
+['/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source', '/location/hud_foreclosure_area/hhuniv./measurement_unit/dated_integer/source', '/location/hud_foreclosure_area/estimated_number_foreclosures./measurement_unit/dated_integer/source', '/location/hud_foreclosure_area/total_90_day_vacant_residential_addresses./measurement_unit/dated_integer/source', '/location/hud_foreclosure_area/total_residential_addresses./measurement_unit/dated_integer/source']
+/m/0jbk9
+Head lab,symb
+ Danville /m/0mp08
+Relations
+ ['/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source', '/location/hud_foreclosure_area/hhuniv./measurement_unit/dated_integer/source', '/location/hud_foreclosure_area/estimated_number_foreclosures./measurement_unit/dated_integer/source', '/location/hud_foreclosure_area/total_90_day_vacant_residential_addresses./measurement_unit/dated_integer/source', '/location/hud_foreclosure_area/total_residential_addresses./measurement_unit/dated_integer/source']
+Tail lab
+ United States Department of Housing and Urban Development /m/0jbk9
+
+
+58448
+/m/0841zn
+['/soccer/football_player/current_team./soccer/football_roster_position/position', '/soccer/football_player/position_s', '/sports/pro_athlete/teams./soccer/football_roster_position/position', '/soccer/football_player/current_team./sports/sports_team_roster/position', '/sports/pro_athlete/teams./sports/sports_team_roster/position']
+/m/0dgrmp
+Head lab,symb
+ Lars Hirschfeld /m/0841zn
+Relations
+ ['/soccer/football_player/current_team./soccer/football_roster_position/position', '/soccer/football_player/position_s', '/sports/pro_athlete/teams./soccer/football_roster_position/position', '/soccer/football_player/current_team./sports/sports_team_roster/position', '/sports/pro_athlete/teams./sports/sports_team_roster/position']
+Tail lab
+ goalkeeper /m/0dgrmp
+
+ /m/071h5c
+['/base/x2010fifaworldcupsouthafrica/world_cup_participant/world_cup_team./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club', '/sports/pro_athlete/teams./sports/sports_team_roster/team', '/soccer/football_player/current_team./soccer/football_roster_position/team', '/sports/pro_athlete/teams./soccer/football_roster_position/team', '/soccer/football_player/current_team./sports/sports_team_roster/team']
+/m/050fh
+Head lab,symb
+ Ben Foster /m/071h5c
+Relations
+ ['/base/x2010fifaworldcupsouthafrica/world_cup_participant/world_cup_team./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club', '/sports/pro_athlete/teams./sports/sports_team_roster/team', '/soccer/football_player/current_team./soccer/football_roster_position/team', '/sports/pro_athlete/teams./soccer/football_roster_position/team', '/soccer/football_player/current_team./sports/sports_team_roster/team']
+Tail lab
+ Manchester United F.C. /m/050fh
+
+
+ /m/07cdz
+['/award/award_winning_work/awards_won./award/award_honor/award_winner', '/film/film/directed_by', '/award/award_nominated_work/award_nominations./award/award_nomination/award_nominee']
+/m/0hskw
+Head lab,symb
+ The Graduate /m/07cdz
+Relations
+ ['/award/award_winning_work/awards_won./award/award_honor/award_winner', '/film/film/directed_by', '/award/award_nominated_work/award_nominations./award/award_nomination/award_nominee']
+Tail lab
+ Mike Nichols /m/0hskw
+
+
+59015
+/m/0147fv
+['/film/personal_film_appearance_type/film_appearances./film/personal_film_appearance/person', '/tv/special_tv_performance_type/starring_performances./tv/regular_tv_appearance/actor']
+/m/043gj
+Head lab,symb
+
+ None
+ /m/0147fv
+Relations
+ ['/film/personal_film_appearance_type/film_appearances./film/personal_film_appearance/person', '/tv/special_tv_performance_type/starring_performances./tv/regular_tv_appearance/actor']
+Tail lab
+ John Wayne
+ /m/043gj
+
+ --------------
+ Head lab,symb
+ Warner Bros. /m/086k8
+Relations
+ ['/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/film/production_company/films']
+Tail lab
+ Lady in the Water /m/05k4my
+-------------------------------
+4
+58413
+Head lab,symb
+ Mark Bresciano /m/07nv3_
+Relations
+ ['/soccer/football_player/current_team./soccer/football_roster_position/team', '/sports/pro_athlete/teams./soccer/football_roster_position/team', '/soccer/football_player/current_team./sports/sports_team_roster/team', '/sports/pro_athlete/teams./sports/sports_team_roster/team']
+Tail lab
+ Parma Calcio 1913 /m/0gxkm
+
+Head lab,symb
+ Evan Rachel Wood /m/03_vx9
+Relations
+ ['/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/award/award_winner/awards_won./award/award_honor/honored_for', '/film/actor/film./film/performance/film']
+Tail lab
+ Thirteen /m/02d49z
+
+ Head lab,symb
+ Being John Malkovich /m/01z452
+Relations
+ ['/film/film/directed_by', '/award/award_nominated_work/award_nominations./award/award_nomination/award_nominee', '/award/award_winning_work/awards_won./award/award_honor/award_winner']
+Tail lab
+ Spike Jonze /m/06pk8
+
+ Head lab,symb
+ Lewis Gilbert /m/03tf_h
+Relations
+ ['/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/film/director/film', '/film/producer/film', '/award/award_winner/awards_won./award/award_honor/honored_for']
+Tail lab
+ Alfie /m/0p7pw
+
+ Head lab,symb
+ Denzel Washington /m/0pmhf
+Relations
+ ['/film/producer/film', '/film/director/film', '/award/award_winner/awards_won./award/award_honor/honored_for', '/award/award_nominee/award_nominations./award/award_nomination/nominated_for', '/film/actor/film./film/performance/film']
+Tail lab
+ Antwone Fisher /m/03mz5b

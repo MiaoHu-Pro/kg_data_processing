@@ -1,7 +1,15 @@
+#! /usr/bin/python3
+#-*-coding:utf-8-*-
 
 from read_json import obtain_entity_obj
 import numpy as np
 import time
+import torch
+device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+# model= model.to(device)
+
+
 from KGObject import EntiPairObj,Enti
 
 def read_all_data(path):
@@ -31,13 +39,20 @@ def read_all_data(path):
             entityPair_set.append((d[0],d[2]))
 
 
-    return np.array(x) , relation_set,entity_set,set(entityPair_set)
+    X = np.array(x)
+    return X , relation_set,entity_set,set(entityPair_set)
 
 
-def set_entity_pair(dataArry,entityPair_set):
+global g_entityPair_set
+global g_dataArry
 
-    num_entity_pair = len(entityPair_set)
-    Pair_list = []
+def entity_pair_rel(g_i):
+
+
+    entityPair_set = g_entityPair_set
+    dataArry = g_dataArry
+
+
     entiObjset = obtain_entity_obj()
     symb_list = []
     for entiobj in entiObjset:
@@ -48,17 +63,89 @@ def set_entity_pair(dataArry,entityPair_set):
     h_data = dataArry[:,0]
     t_data = dataArry[:,2]
 
+
+
+    print(g_i)
+    # 获取关系
+    rel_set = []
+    head = entityPair_set[g_i][0]
+    tail = entityPair_set[g_i][1]
+    """
+    for t in range(len(dataArry)):
+        if head == dataArry[t][0] and tail == dataArry[t][2]:
+            rel_set.append(dataArry[t][1])
+    """
+
+    index_h = [i for i, x in enumerate(h_data) if x == head]
+    index_t = [i for i, x in enumerate(t_data) if x == tail]
+
+    com_index = [i for i in index_h if i in index_t]
+    # print(com_index)
+    for index in com_index:
+        rel_set.append(dataArry[index][1])
+
+    # print(head)
+    # print(rel_set)
+    # print(tail)
+
+    # print("rel_set", rel_set)
+
+
+    # 封装对象
+    _entityPair_h = None
+    _entityPair_t = None
+
+    if head in symb_list:
+        _entityPair_h = entiObjset[symb_list.index(head)]
+    else:
+        _entityPair_h= Enti(_id=None,_symbal=head,_lable=None,_description=None)
+
+    if tail in symb_list:
+        _entityPair_t = entiObjset[symb_list.index(tail)]
+
+    else:
+        _entityPair_t= Enti(_id=None,_symbal=tail,_lable=None,_description=None)
+
+
+
+    pair = EntiPairObj(h_EntiObj=_entityPair_h,relation_list=rel_set, t_EntiObj=_entityPair_t)
+
+    if len(pair.Relset) >= 3:
+
+        print("Head lab,symb \n",pair.H_Enti.lable,pair.H_Enti.symb)
+        print("Relations \n",pair.Relset)
+        print("Tail lab \n",pair.T_Enti.lable,pair.T_Enti.symb)
+        print("-------------------------------")
+
+
+    return pair
+
+def set_entity_pair(dataArry,entityPair_set):
+
+    num_entity_pair = len(entityPair_set)
+    #
+    # entiObjset = obtain_entity_obj()
+    # symb_list = []
+    # for entiobj in entiObjset:
+    #     symb_list.append(entiobj.symb)
+    #
+    # # print((symb_list))
+    #
+    # h_data = dataArry[:,0]
+    # t_data = dataArry[:,2]
+    #==========================
+    """
     for i in range(num_entity_pair):
         print(i)
         # 获取关系
         rel_set = []
         head = entityPair_set[i][0]
         tail = entityPair_set[i][1]
-        """
-        for t in range(len(dataArry)):
-            if head == dataArry[t][0] and tail == dataArry[t][2]:
-                rel_set.append(dataArry[t][1])
-        """
+        
+        # for t in range(len(dataArry)):
+        #     if head == dataArry[t][0] and tail == dataArry[t][2]:
+        #         rel_set.append(dataArry[t][1])
+        
 
         index_h = [i for i, x in enumerate(h_data) if x == head]
         index_t = [i for i, x in enumerate(t_data) if x == tail]
@@ -94,13 +181,26 @@ def set_entity_pair(dataArry,entityPair_set):
 
         pair = EntiPairObj(h_EntiObj=_entityPair_h,relation_list=rel_set, t_EntiObj=_entityPair_t)
 
-        """
-        print("Head lab,symb \n",pair.H_Enti.lable,pair.H_Enti.symb)
-        print("Relations \n",pair.Relset)
-        print("Tail lab \n",pair.T_Enti.lable,pair.T_Enti.symb)
-        print("-------------------------------")
-        """
+        
+        # print("Head lab,symb \n",pair.H_Enti.lable,pair.H_Enti.symb)
+        # print("Relations \n",pair.Relset)
+        # print("Tail lab \n",pair.T_Enti.lable,pair.T_Enti.symb)
+        # print("-------------------------------")
+        
+
+
         Pair_list.append(pair)
+    """
+    global g_entityPair_set
+    g_entityPair_set =  entityPair_set
+    global g_dataArry
+    g_dataArry = dataArry
+
+    import multiprocessing as mp
+    Pair_list = []
+    pool = mp.Pool(2)
+    Pair_list = pool.map(entity_pair_rel,[i for i in range(num_entity_pair)])
+    #==========================
 
 
     return Pair_list
@@ -144,8 +244,7 @@ def split_test_train(pair_set,train_file_path,test_file_path):
         f_all_entityPairs.close()
 
 
-if  __name__=='__main__':
-
+def main():
 
     all_data_file = "./FB15K/all_triples.txt"
 
@@ -179,6 +278,13 @@ if  __name__=='__main__':
 
 
     print("END !")
+
+
+from multiprocessing import Pool
+
+if  __name__=='__main__':
+
+    main()
 
 
 

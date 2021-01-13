@@ -1,3 +1,8 @@
+#! /usr/bin/python3
+#-*-coding:utf-8-*-
+import sys
+
+
 
 import numpy as np
 
@@ -22,6 +27,8 @@ A = np.array(A)
 print(A.shape)
 h = 1
 t = 3
+
+
 
 for x in range(len(A)):
     if h == A[x][0] and t == A[x][2]:
