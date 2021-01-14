@@ -1,0 +1,351 @@
+/m/02g3gw 	 Saturn Award for Best Writing 	 award 	 /award/award_category/nominees./award/award_nomination/nominated_for 	 /m/012kyx 	 28 Days Later 	 2002 British post-apocalyptic horror film	 
+/m/043kzcr 	 Jessica Chastain 	 American actress 	 /film/actor/film./film/performance/film 	 /m/05c26ss 	 Madagascar 3: Europe's Most Wanted 	 2012 American 3D computer-animated comedy film	 
+/m/06rny 	 San Francisco 49ers 	 American football team in the National Football League 	 /sports/sports_team/roster./american_football/football_historical_roster_position/position_s 	 /m/02g_6x 	 wide receiver 	 offensive position in American and Canadian football	 
+/m/06pr6 	 Saint Petersburg 	 federal city in Russia and the former capital 	 /symbols/name_source/namesakes 	 /m/0lhql 	 St. Petersburg 	 city in Pinellas County, Florida, United States	 
+/m/0jdk_ 	 2000 Summer Olympics 	 games of the XXVII Olympiad, celebrated in Sydney in 2000 	 /olympics/olympic_games/sports 	 /m/03krj 	 handball 	 ballgame-team sport	 
+/m/0cd25 	 surgery 	 medical specialty 	 /medicine/medical_treatment/used_to_treat 	 /m/01k9gb 	 esophageal cancer 	 gastrointestinal system cancer that is located in the esophagus	 
+/m/0l12d 	 David Byrne 	 Scottish alternative rock musician and promoter of world music 	 /music/artist/contribution./music/recording_contribution/performance_role 	 /m/03bx0bm 	 lead vocalist 	 member of a band who sings the main solo vocal portions of a song	 
+/m/0ckd1 	 executive producer 	 profession 	 /tv/tv_producer_type/tv_producers_of_this_type./tv/tv_producer_term/producer 	 /m/02tn0_ 	 Tony Scott 	 British film director and producer	 
+/m/06n90 	 science fiction 	 genre of fiction 	 /film/film_genre/films_in_this_genre 	 /m/0gzlb9 	 Battlefield Earth 	 2000 film by Roger Christian	 
+/m/02rmfm 	 Marg Helgenberger 	 American actress 	 /people/person/education./education/education/major_field_of_study 	 /m/02822 	 drama 	 artwork intended for performance, formal type of literature	 
+/m/027dtxw 	 BAFTA Award for Best Actor in a Supporting Role 	 award 	 /award/award_category/nominees./award/award_nomination/nominated_for 	 /m/011yg9 	 Sense and Sensibility 	 1995 period drama film	 
+/m/032xky 	 It 	 1990 psychological horror/drama miniseries 	 /film/film/language 	 /m/02h40lc 	 English 	 West Germanic language originating in England	 
+/m/0dl9_4 	 Eastern Promises 	 2007 crime thriller film 	 /film/film/subjects 	 /m/05489 	 Sicilian Mafia 	 None	 
+/m/07zhjj 	 How I Met Your Mother 	 American sitcom / comedy-drama TV series 	 /tv/tv_program/genre 	 /m/01z4y 	 None 	 None	 
+/m/0k9ts 	 Delta Air Lines 	 airline in the United States of America 	 /aviation/aircraft_owner/aircraft_fleet_composition./aviation/aircraft_ownership_count/aircraft_model 	 /m/01gt7 	 None 	 None	 
+/m/064ndc 	 Radio 	 2003 American film 	 /film/film/other_crew./film/film_crew_gig/film_crew_role 	 /m/0ch6mp2 	 production sound mixer 	 None	 
+/m/044mfr 	 Adam Levine 	 singer, songwriter, actor, and record producer from the United States 	 /music/group_member/membership./music/group_membership/role 	 /m/03bx0bm 	 lead vocalist 	 member of a band who sings the main solo vocal portions of a song	 
+/m/04g61 	 Luxembourg 	 grand duchy in Western Europe 	 /olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal 	 /m/02lq5w 	 silver medal 	 Medal awarded in sports and other competitions	 
+/m/01s0_f 	 Wayne State University 	 American public research university located in Detroit, Michigan 	 /education/educational_institution/students_graduates./education/education/degree 	 /m/027f2w 	 Doctor of Medicine 	 postgraduate medical degree	 
+/m/0h32q 	 Vanessa Redgrave 	 English actress 	 /award/award_winner/awards_won./award/award_honor/award 	 /m/0cqgl9 	 Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Miniseries or Television Movie 	 None	 
+/m/070tng 	 FC Tom Tomsk 	 association football club in Russia 	 /soccer/football_team/current_roster./soccer/football_roster_position/position 	 /m/02_j1w 	 defender 	 association football position played near the player's team's own goal	 
+/m/017gl1 	 The Lord of the Rings: The Fellowship of the Ring 	 2001 film directed by Peter Jackson 	 /award/award_nominated_work/award_nominations./award/award_nomination/award 	 /m/0gq9h 	 Academy Award for Best Picture 	 annual award from the Academy of Motion Picture Arts and Sciences (AMPAS)	 
+/m/04z542 	 Michael Lerner 	 actor 	 /people/person/gender 	 /m/05zppz 	 male organism 	 determined sex of an animal or plant. Use Q6581097 for a male human	 
+/m/02l7c8 	 romance film 	 film genre 	 /film/film_genre/films_in_this_genre 	 /m/0prhz 	 Hamlet 	 1990 film by Franco Zeffirelli	 
+/m/09c7w0 	 United States of America 	 federal republic in North America 	 /location/location/contains 	 /m/0mhdz 	 Los Gatos 	 incorporated town in Santa Clara County, California	 
+/m/02jknp 	 film director 	 occupation of a person who directs a film 	 /people/profession/people_with_this_profession 	 /m/03v40v 	 Bill Melendez 	 Mexican-American animator, film director, film producer	 
+/m/035wq7 	 Steve Guttenberg 	 actor, comedian 	 /people/person/profession 	 /m/02hrh1q 	 actor 	 person who acts in a dramatic or comic production and works in film, television, theatre, or radio	 
+/m/01gkgk 	 Member of Congress 	 person who has been appointed or elected to a congress 	 /government/government_office_category/officeholders./government/government_position_held/legislative_sessions 	 /m/02bqmq 	 103rd United States Congress 	 None	 
+/m/0789r6 	 Golden Lion 	 the highest prize given to a film at the Venice Film Festival 	 /award/award_category/winners./award/award_honor/award_winner 	 /m/01_f_5 	 Sofia Coppola 	 screenwriter and director from the United States	 
+/m/03ylxn 	 Nigeria national football team 	 men's national association football team representing Nigeria 	 /sports/sports_team/roster./soccer/football_roster_position/position 	 /m/0dgrmp 	 goalkeeper 	 position in association football (soccer)	 
+/m/03b6j8 	 Poland national football team 	 men's national association football team representing Poland 	 /soccer/football_team/current_roster./sports/sports_team_roster/position 	 /m/02nzb8 	 midfielder 	 association football position played on both ends of the field	 
+/m/0clfdj 	 Broadcast Film Critics Association Awards 2001 	 None 	 /award/award_ceremony/awards_presented./award/award_honor/award_winner 	 /m/01jmv8 	 Judy Davis 	 Australian film, television and stage actress	 
+/m/099t8j 	 Broadcast Film Critics Association Award for Best Supporting Actress 	 None 	 /award/award_category/winners./award/award_honor/award_winner 	 /m/013knm 	 Catherine Zeta-Jones 	 Welsh-American actress and singer	 
+/m/0mcf4 	 Blue Note Records 	 American record label 	 /music/record_label/artist 	 /m/0197tq 	 Norah Jones 	 American singer-songwriter and multi-instrumentalist	 
+/m/034bs 	 George Orwell 	 English author and journalist 	 /influence/influence_node/influenced_by 	 /m/01tz6vs 	 Leo Tolstoy 	 Russian writer	 
+/m/0257h9 	 magnet school 	 public schools with specialized courses or curricula 	 /education/school_category/schools_of_this_kind 	 /m/0204jh 	 The Bronx High School of Science 	 high school	 
+/m/075cph 	 The Man Who Knew Too Much 	 1956 film by Alfred Hitchcock 	 /film/film/costume_design_by 	 /m/02cqbx 	 Edith Head 	 American film and television costumer	 
+/m/01q_ph 	 Owen Wilson 	 American actor and screenwriter 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/0391jz 	 Rachel McAdams 	 Canadian actress	 
+/m/0dbpwb 	 Jujamcyn Theaters 	 None 	 /award/award_winner/awards_won./award/award_honor/award 	 /m/01l78d 	 Tony Award for Best Play 	 None	 
+/m/03wbqc4 	 The Taking of Pelham 123 	 2009 film by Tony Scott 	 /film/film/produced_by 	 /m/027kmrb 	 Steve Tisch 	 American businessman	 
+/m/01x_d8 	 Mena Suvari 	 Actress, fashion designer, model 	 /award/award_nominee/award_nominations 	 /m/05p5nc 	 Frances Conroy 	 American actress	 
+/m/01tbp 	 chemical engineering 	 branch of science that applies physical sciences and life sciences together with applied mathematics and economics to produce, transform, transport, and properly use chemicals, materials and energy 	 /education/field_of_study/subdiscipline_of 	 /m/02ky346 	 engineering 	 application of knowledge to produce systems	 
+/m/09vw2b7 	 special effects supervisor 	 individual who works on a commercial, theater, television or film set creating special effects 	 /film/film_job/films_with_this_crew_job./film/film_crew_gig/crewmember 	 /m/02xc1w4 	 Gregory Nicotero 	 American actor	 
+/m/01b3l 	 National Baseball Hall of Fame and Museum 	 None 	 /award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee 	 /m/0443c 	 Jackie Robinson 	 American baseball player	 
+/m/03wpmd 	 Karan Johar 	 Indian film director, producer, screenwriter and television host 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/0cbxl0 	 Manish Malhotra 	 fashion designer	 
+/m/025cbm 	 clavinet 	 musical instrument 	 /music/performance_role/track_performances./music/track_contribution/role 	 /m/01wy6 	 clarinet 	 type of woodwind instrument	 
+/m/06tgw 	 Somalia 	 country in Africa 	 /organization/organization_member/member_of./organization/organization_membership/organization 	 /m/07t65 	 United Nations 	 intergovernmental organisation	 
+/m/0fpgp26 	 Ice Age: Continental Drift 	 2012 American animated film 	 /award/award_nominated_work/award_nominations./award/award_nomination/award 	 /m/02x1z2s 	 Satellite Award for Best Animated or Mixed Media Feature 	 None	 
+/m/05p1qyh 	 Zombieland 	 2009 film by Ruben Fleischer 	 /film/film/other_crew./film/film_crew_gig/film_crew_role 	 /m/02_n3z 	 Dialogue editor 	 None	 
+/m/06r2_ 	 Star Trek II: The Wrath of Khan 	 1982 American science fiction film 	 /media_common/adaptation/adapted_from 	 /m/06mv6 	 None 	 None	 
+/m/02fz3w 	 Martin Freeman 	 English actor 	 /tv/tv_actor/starring_roles./tv/regular_tv_appearance/series 	 /m/053x8hr 	 Sherlock 	 British-American crime drama television series	 
+/m/094qd5 	 BAFTA Award for Best Actress in a Leading Role 	 None 	 /award/award_category/nominees./award/award_nomination/award_nominee 	 /m/01gw8b 	 Jill Clayburgh 	 American actress	 
+/m/03xp8d5 	 James L. Brooks 	 American director, producer and screenwriter 	 /tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program 	 /m/07c72 	 The Simpsons 	 American animated sitcom created by Matt Groening	 
+/m/02l7c8 	 romance film 	 film genre 	 /film/film_genre/films_in_this_genre 	 /m/0_b9f 	 The Piano 	 1993 romantic drama film	 
+/m/013nws 	 Eau Claire 	 city in Wisconsin 	 /location/location/containedby 	 /m/09c7w0 	 United States of America 	 federal republic in North America	 
+/m/030jj7 	 Curb Records 	 American record label 	 /music/record_label/artist 	 /m/01n8gr 	 Kenny Rogers 	 American singer-songwriter	 
+/m/04h6mm 	 Andrew Stevens 	 American actor 	 /people/person/profession 	 /m/0dxtg 	 screenwriter 	 writer who writes for TV, films, comics and games	 
+/m/04cppj 	 Road Trip 	 2000 film by Todd Phillips 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/035qy 	 Greece 	 republic in Southern Europe	 
+/m/032j_n 	 Dimension Films 	 None 	 /film/production_company/films 	 /m/04tqtl 	 Sin City 	 2005 American crime thriller film written, produced and directed by Frank Miller and Robert Rodriguez	 
+/m/018y81 	 Roger Taylor 	 English singer-songwriter and multi-instrumentalist 	 /music/artist/genre 	 /m/09jw2 	 glam rock 	 music genre	 
+/m/06ztvyx 	 Kung Fu Panda 2 	 2011 animated film 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/07ylj 	 Venezuela 	 republic in northern South America	 
+/m/016k62 	 Itzhak Perlman 	 Israeli-American violinist and conductor 	 /common/topic/webpage./common/webpage/category 	 /m/08mbj32 	 None 	 None	 
+/m/02yxjs 	 Northern Illinois University 	 university 	 /education/educational_institution/students_graduates./education/education/major_field_of_study 	 /m/04rjg 	 mathematics 	 abstract study of numbers, quantity, structure, relationships, etc.; mathematics can be seen as the search for regularities, and the output of any function is a mathematical pattern	 
+/m/059_gf 	 Jeffrey Wright 	 American actor 	 /people/person/place_of_birth 	 /m/0rh6k 	 Washington, D.C. 	 capital city of the United States	 
+/m/09qj50 	 Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series 	 award 	 /award/award_category/nominees./award/award_nomination/nominated_for 	 /m/02h2vv 	 Murphy Brown 	 None	 
+/m/012vct 	 George Stevens 	 American film director 	 /award/award_nominee/award_nominations./award/award_nomination/award 	 /m/019f4v 	 Golden Globe Award for Best Director 	 award	 
+/m/0jqn5 	 E.T. the Extra-Terrestrial 	 1982 American science fiction film 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/05b4w 	 Norway 	 constitutional monarchy in Northern Europe	 
+/m/06nm1 	 Spanish 	 Romance language 	 /education/field_of_study/students_majoring./education/education/institution 	 /m/05zl0 	 Princeton University 	 private Ivy League research university in Princeton, New Jersey, United States	 
+/m/0g4gr 	 marketing 	 activities to gain and keep customers, providing value to them through offerings and communication about offerings 	 /education/field_of_study/students_majoring./education/education/institution 	 /m/017j69 	 Northwestern University 	 private research university with campuses in Evanston and Chicago, Illinois, United States	 
+/m/01svw8n 	 Fergie 	 singer from the United States 	 /people/person/profession 	 /m/016z4k 	 singer-songwriter 	 musician who writes, composes and sings	 
+/m/01jfsb 	 thriller 	 genre of literature, film, and television programming 	 /film/film_genre/films_in_this_genre 	 /m/043tvp3 	 Terminator Salvation 	 2009 US science fiction action film	 
+/m/01bczm 	 Bryan Adams 	 Canadian singer-songwriter 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/01l3mk3 	 Marvin Hamlisch 	 American composer and conductor	 
+/m/03s2y9 	 Irwin Allen 	 film producer 	 /people/person/profession 	 /m/0dxtg 	 screenwriter 	 writer who writes for TV, films, comics and games	 
+/m/0fkhz 	 Otsego County 	 county in New York, United States 	 /location/location/containedby 	 /m/059rby 	 New York 	 state of the United States of America	 
+/m/01bx35 	 2001 Grammy Awards 	 award ceremony 	 /award/award_ceremony/awards_presented./award/award_honor/award 	 /m/02flpc 	 Grammy Award for Best Traditional Gospel Album 	 None	 
+/m/013gwb 	 Springfield 	 city in Missouri, United States 	 /common/topic/webpage./common/webpage/category 	 /m/08mbj5d 	 None 	 None	 
+/m/01c72t 	 composer 	 person who creates music, either by musical notation or oral tradition 	 /people/profession/people_with_this_profession 	 /m/0hr3g 	 Richard Strauss 	 German composer and orchestra director	 
+/m/03f4k 	 George Gershwin 	 American composer and pianist 	 /people/person/profession 	 /m/0nbcg 	 songwriter 	 person who writes the lyrics and melody for a music art piece	 
+/m/0pqc5 	 mayor 	 head of municipal government such as a town or city 	 /government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office 	 /m/0b2lw 	 Saint Paul 	 capital of the state of Minnesota, United States; county seat of Ramsey County, Minnesota	 
+/m/0nz_b 	 Cobb County 	 county in Georgia, USA 	 /location/administrative_division/capital./location/administrative_division_capital_relationship/capital 	 /m/0rv97 	 Marietta 	 county seat of Cobb County, Georgia, United States	 
+/m/0j3d9tn 	 Rust and Bone 	 2012 film directed by Jacques Audiard 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/09c7w0 	 United States of America 	 federal republic in North America	 
+/m/0dgd_ 	 cinematographer 	 chief over the camera and lighting crews working on a film 	 /people/profession/people_with_this_profession 	 /m/09pjnd 	 Richard Edlund 	 American special effects cinematographer	 
+/m/0lzkm 	 Jim O'Rourke 	 American musician 	 /music/group_member/instruments_played 	 /m/0l14qv 	 synthesizer 	 electronic instrument capable of producing a wide range of sounds	 
+/m/0nbcg 	 songwriter 	 person who writes the lyrics and melody for a music art piece 	 /people/profession/people_with_this_profession 	 /m/01vzxld 	 Sheena Easton 	 Scottish recording artist	 
+/m/07srw 	 Utah 	 state of the United States of America 	 /location/location/containedby 	 /m/09c7w0 	 United States of America 	 federal republic in North America	 
+/m/01tjsl 	 Eastern Cape 	 province of South Africa 	 /location/location/contains 	 /m/06f0y3 	 Port Elizabeth 	 city in the Eastern Cape, South Africa	 
+/m/01j_5k 	 Villanova University 	 Catholic university near Philadelphia, Pennsylvania 	 /organization/organization/headquarters./location/mailing_address/state_province_region 	 /m/05tbn 	 Pennsylvania 	 state of the United States	 
+/m/02_j1w 	 defender 	 association football position played near the player's team's own goal 	 /sports/sports_position/players./soccer/football_roster_position/team 	 /m/03078l 	 SK Rapid Wien 	 association football club in Austria	 
+/m/0f4x7 	 Academy Award for Best Actor 	 award presented annually by the Academy of Motion Picture Arts and Sciences 	 /award/award_category/winners./award/award_honor/ceremony 	 /m/0dznvw 	 23rd Academy Awards 	 None	 
+/m/07024 	 Saving Private Ryan 	 1998 American epic war film 	 /award/award_winning_work/awards_won./award/award_honor/award_winner 	 /m/03fbb6 	 Giovanni Ribisi 	 American actor	 
+/m/0bdx29 	 Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series 	 None 	 /award/award_category/category_of 	 /m/0gcf2r 	 Primetime Emmy Award 	 American accolade bestowed by the Academy of Television Arts & Sciences	 
+/m/04f6df0 	 Into the Storm 	 2009 TV-biopic about Churchill 	 /film/film/production_companies 	 /m/03jvmp 	 HBO Films 	 film production company	 
+/m/01f6zc 	 Gary Oldman 	 English actor, screenwriter, director, producer, musician 	 /award/award_nominee/award_nominations./award/award_nomination/award 	 /m/02x8n1n 	 Independent Spirit Award for Best Supporting Male 	 None	 
+/m/0chghy 	 Australia 	 country in Oceania 	 /olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/sport 	 /m/01z27 	 cross-country skiing 	 winter sport	 
+/m/07w21 	 Ursula K. Le Guin 	 American writer known best for speculative fiction 	 /award/award_winner/awards_won./award/award_honor/award 	 /m/0208wk 	 World Fantasy Award for Best Novel 	 award	 
+/m/01rlxt 	 Rick Berman 	 television producer 	 /people/person/places_lived./people/place_lived/location 	 /m/02_286 	 New York City 	 city in state of New York, United States	 
+/m/0335fp 	 Bradley Whitford 	 American actor 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/040t74 	 Janel Moloney 	 American actress	 
+/m/02qssrm 	 Jenna Wolfe 	 American reporter 	 /people/person/nationality 	 /m/09c7w0 	 United States of America 	 federal republic in North America	 
+/m/018vs 	 bass guitar 	 electric bass instrument 	 /music/instrument/instrumentalists 	 /m/01bpnd 	 Noel Gallagher 	 British musician	 
+/m/05kj_ 	 Oregon 	 state of the United States of America 	 /base/aareas/schema/administrative_area/capital 	 /m/0d23k 	 Salem 	 city in Marion County and Polk County, Oregon, U.S., county seat in Marion County and Oregon federated state capital city.	 
+/m/03ttn0 	 Iowa Hawkeyes football 	 football team of the University of Iowa 	 /sports/sports_team/roster./american_football/football_historical_roster_position/position_s 	 /m/01_9c1 	 defensive back 	 position in American football and Canadian football	 
+/m/02hrh0_ 	 Honolulu 	 county seat in Honolulu County, Hawaii, USA and Hawaii federated state capital city 	 /location/location/people_born_here 	 /m/01dw9z 	 Bette Midler 	 American singer-songwriter, actress, comedian and film producer	 
+/m/02czd5 	 Mad About You 	 1990s American TV sitcom 	 /media_common/netflix_title/netflix_genres 	 /m/07c52 	 television 	 telecommunication medium for transmitting and receiving moving images	 
+/m/01wrcxr 	 Diana Ross 	 American vocalist, music artist and actress 	 /people/person/profession 	 /m/01d_h8 	 film producer 	 person who supervises the overall process, creative and financial, of making a film	 
+/m/02v0ff 	 Al Roker 	 Weather presenter, television and radio personality 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/06n7h7 	 Natalie Morales 	 American journalist	 
+/m/0ndwt2w 	 The Hobbit: An Unexpected Journey 	 2012 film directed by Peter Jackson 	 /film/film/starring./film/performance/actor 	 /m/016zp5 	 Ian Holm 	 British actor	 
+/m/0chghy 	 Australia 	 country in Oceania 	 /government/governmental_jurisdiction/governing_officials./government/government_position_held/basic_title 	 /m/01_fjr 	 deputy prime minister 	 civil servant position	 
+/m/0jfx1 	 Johnny Depp 	 American actor, film producer, and musician 	 /award/award_winner/awards_won./award/award_honor/honored_for 	 /m/0ds11z 	 Sweeney Todd: The Demon Barber of Fleet Street 	 2007 film by Tim Burton	 
+/m/0fj45 	 Governor-General 	 vice-regal representative of a monarch in an independent realm or a major colonial state 	 /government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office 	 /m/0chghy 	 Australia 	 country in Oceania	 
+/m/048htn 	 Unfaithful 	 2002 American erotic thriller film 	 /film/film/country 	 /m/0345h 	 Germany 	 country in central Europe	 
+/m/04qvl7 	 Roger Deakins 	 British cinematographer 	 /film/cinematographer/film 	 /m/02r1c18 	 A Serious Man 	 2009 film by Joel Coen, Ethan Coen	 
+/m/0f8l9c 	 France 	 republic with mainland in Europe and numerous oversea territories 	 /location/location/contains 	 /m/035qv8 	 University of Strasbourg 	 university in France (from 2009)	 
+/m/0dls3 	 grunge 	 subgenre of alternative rock 	 /music/genre/artists 	 /m/01vng3b 	 Josh Homme 	 American musician	 
+/m/018qb4 	 1908 Summer Olympics 	 Games of the IV Olympiad, celebrated in London (United Kingdom) in 1908 	 /olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/country 	 /m/02vzc 	 Finland 	 country in Northern Europe	 
+/m/015whm 	 Being There 	 1979 film by Hal Ashby 	 /award/award_winning_work/awards_won./award/award_honor/award_winner 	 /m/063_t 	 Peter Sellers 	 British film actor, comedian and singer	 
+/m/01j6mff 	 Steven Curtis Chapman 	 American Christian music singer-songwriter, record producer, actor, author, and social activist 	 /people/person/spouse_s./people/marriage/type_of_union 	 /m/04ztj 	 marriage 	 social union or legal contract between people called spouses that creates kinship	 
+/m/0dzc16 	 Emilio Estefan 	 Cuban-American musician, producer, actor, entrepreneur 	 /people/person/profession 	 /m/09jwl 	 musician 	 person who performs or composes music	 
+/m/06w7v 	 slide 	 guitar technique for steelguitars 	 /music/performance_role/track_performances./music/track_contribution/role 	 /m/05842k 	 percussion 	 None	 
+/m/0mwm6 	 Lackawanna County 	 county in Pennsylvania, United States 	 /location/location/time_zones 	 /m/02hcv8 	 Eastern Time Zone 	 time zone observing UTC - 5 during standard time and UTC - 4 during daylight saving time	 
+/m/04zkj5 	 Ed Helms 	 American actor and comedian 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/0cms7f 	 Oscar Nunez 	 comedian	 
+/m/08815 	 Yale University 	 private research university in New Haven, Connecticut, United States 	 /organization/organization_member/member_of./organization/organization_membership/organization 	 /m/034h1h 	 Association of American Universities 	 international organization of leading research universities	 
+/m/0dr_4 	 Titanic 	 1997 American romantic disaster film 	 /award/award_nominated_work/award_nominations./award/award_nomination/award 	 /m/0l8z1 	 Academy Award for Best Original Score 	 None	 
+/m/0pz91 	 Adam Sandler 	 American actor, comedian, screenwriter, and producer 	 /film/producer/films_executive_produced 	 /m/095z4q 	 The Longest Yard 	 2005 film by Peter Segal	 
+/m/05r5c 	 piano 	 musical instrument 	 /music/performance_role/track_performances./music/track_contribution/contributor 	 /m/018y2s 	 Dave Matthews 	 American singer-songwriter, musician and actor	 
+/m/03_48k 	 Fred Ward 	 actor 	 /people/person/profession 	 /m/02hrh1q 	 actor 	 person who acts in a dramatic or comic production and works in film, television, theatre, or radio	 
+/m/0nvt9 	 Cook County 	 county in Illinois, United States 	 /location/us_county/hud_county_place 	 /m/0psxp 	 Evanston 	 suburban city in Cook County, Illinois, United States	 
+/m/0dnvn3 	 The Ladykillers 	 2004 film by Joel Coen, Ethan Coen 	 /film/film/genre 	 /m/01jfsb 	 thriller 	 genre of literature, film, and television programming	 
+/m/01f2q5 	 The Roots 	 American hip hop band 	 /music/artist/genre 	 /m/02x8m 	 funk 	 genre of music	 
+/m/06ybb1 	 Rhinestone 	 1984 film by Bob Clark 	 /award/award_nominated_work/award_nominations./award/award_nomination/nominated_for 	 /m/02scbv 	 Rambo: First Blood Part II 	 1985 American action film	 
+/m/039cq4 	 Saturday Night Live 	 American late-night live television sketch comedy and variety show 	 /award/award_nominated_work/award_nominations./award/award_nomination/award_nominee 	 /m/09px1w 	 Akiva Schaffer 	 American comedy writer, actor and film director	 
+/m/02hnl 	 drum kit 	 collection of drums and other percussion instruments 	 /music/performance_role/guest_performances./music/recording_contribution/performance_role 	 /m/018vs 	 bass guitar 	 electric bass instrument	 
+/m/03g90h 	 Babylon 5: The Gathering 	 pilot movie of the science fiction TV series Babylon 5 	 /film/film/distributors./film/film_film_distributor_relationship/region 	 /m/09c7w0 	 United States of America 	 federal republic in North America	 
+/m/08mbj5d 	 None 	 None 	 /common/annotation_category/annotations./common/webpage/topic 	 /m/02bb8j 	 Communist Party USA 	 American political party	 
+/m/045zr 	 Joni Mitchell 	 Canadian musician 	 /music/artist/genre 	 /m/064t9 	 pop music 	 genre of popular music which originated in its modern form in the late-1950s, deriving from rock and roll	 
+/m/07p__7 	 109th United States Congress 	 None 	 /government/legislative_session/members./government/government_position_held/district_represented 	 /m/05fjf 	 New Jersey 	 state of the United States of America	 
+/m/015v3r 	 Ethan Hawke 	 American actor and writer 	 /award/award_winner/awards_won./award/award_honor/award_winner 	 /m/0cjsxp 	 Michael Shannon 	 American actor and musician	 
+/m/01dhpj 	 Daniel Barenboim 	 Israeli Argentine-born pianist and conductor 	 /music/artist/track_contributions./music/track_contribution/role 	 /m/05r5c 	 piano 	 musical instrument	 
+/m/01j5sd 	 Gabriel Byrne 	 Irish actor, film director, film producer, writer, cultural ambassador and audiobook narrator 	 /people/person/places_lived./people/place_lived/location 	 /m/02cft 	 Dublin 	 capital city of Ireland	 
+/m/09mfvx 	 THINKFilm 	 defunct U.S. film distribution company 	 /business/business_operation/industry 	 /m/02vxn 	 film 	 sequence of images that give the impression of movement	 
+/m/047rkcm 	 The Ugly Truth 	 2009 film by Robert Luketic 	 /award/award_nominated_work/award_nominations./award/award_nomination/award_nominee 	 /m/025b5y 	 Katherine Heigl 	 American actress and film producer	 
+/m/06br8 	 rugby union 	 team sport, code of rugby football 	 /olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country 	 /m/09c7w0 	 United States of America 	 federal republic in North America	 
+/m/0c5dd 	 It Happened One Night 	 1934 film by Frank Capra 	 /award/award_nominated_work/award_nominations./award/award_nomination/award 	 /m/0f4x7 	 Academy Award for Best Actor 	 award presented annually by the Academy of Motion Picture Arts and Sciences	 
+/m/0hfjk 	 Western 	 genre of various arts which tell stories set primarily in the later half of the 19th century in the American Old West 	 /media_common/netflix_genre/titles 	 /m/04z4j2 	 Ned Kelly 	 2003 film by Gregor Jordan	 
+/m/031x_3 	 Jessye Norman 	 American opera singer 	 /people/person/profession 	 /m/09jwl 	 musician 	 person who performs or composes music	 
+/m/044mm6 	 Malcolm David Kelley 	 American actor 	 /award/award_winner/awards_won./award/award_honor/award_winner 	 /m/03_wvl 	 Jorge Garcia 	 American actor and comedian	 
+/m/0291ck 	 Young Frankenstein 	 1974 film by Mel Brooks, Gene Wilder 	 /award/award_nominated_work/award_nominations./award/award_nomination/award_nominee 	 /m/02l3_5 	 Cloris Leachman 	 American actress	 
+/m/0dr3sl 	 Shrek 	 2001 animated adventure comedy film 	 /film/film/genre 	 /m/01zhp 	 computer animation 	 art of creating moving images using computers	 
+/m/01q9b9 	 Maya Angelou 	 American poet and author 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/05ry0p 	 Samantha Mathis 	 American actress	 
+/m/05_z42 	 The Colbert Report 	 US satirical late night television program 	 /tv/tv_program/program_creator 	 /m/01xdf5 	 Stephen Colbert 	 American political satirist, writer, comedian, television host, and actor	 
+/m/017j69 	 Northwestern University 	 private research university with campuses in Evanston and Chicago, Illinois, United States 	 /education/educational_institution/students_graduates./education/education/student 	 /m/02mslq 	 David Sanborn 	 American saxophonist	 
+/m/0283xx2 	 BBC Films 	 film production company 	 /film/production_company/films 	 /m/09rvcvl 	 Made in Dagenham 	 2010 British film directed by Nigel Cole	 
+/m/04k15 	 Ludwig van Beethoven 	 German classical and romantic composer 	 /people/person/profession 	 /m/05vyk 	 pianist 	 musician who plays the piano	 
+/m/0p07_ 	 Eagle County 	 county in Colorado, United States 	 /location/statistical_region/rent50_3./measurement_unit/dated_money_value/currency 	 /m/09nqf 	 United States dollar 	 currency of the United States of America	 
+/m/092ggq 	 Leighton Meester 	 American actress 	 /award/award_nominee/award_nominations./award/award_nomination/award 	 /m/05p09zm 	 Golden Raspberry Award for Worst Screen Couple/Ensemble 	 award	 
+/m/03rk0 	 India 	 Federal Republic in Southern Asia 	 /location/country/administrative_divisions 	 /m/01f1q8 	 Chandigarh 	 capital of Punjab and Haryana states, Union Territory of India	 
+/m/054ks3 	 Golden Globe Award for Best Original Song 	 award 	 /award/award_category/winners./award/award_honor/ceremony 	 /m/09pj68 	 63rd Golden Globe Awards 	 None	 
+/m/026dd2b 	 Gary Tomlin 	 American actor 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/03ckxdg 	 Elizabeth Page 	 American writer	 
+/m/02hrh1q 	 actor 	 person who acts in a dramatic or comic production and works in film, television, theatre, or radio 	 /people/profession/people_with_this_profession 	 /m/01bh6y 	 Jean Simmons 	 British-American actress	 
+/m/01jfsb 	 thriller 	 genre of literature, film, and television programming 	 /film/film_genre/films_in_this_genre 	 /m/0bwfwpj 	 Super 8 	 2011 American science fiction-thriller film	 
+/m/01hqk 	 Batman & Robin 	 1997 American superhero film based on the DC Comics character Batman 	 /film/film/other_crew./film/film_crew_gig/film_crew_role 	 /m/01pvkk 	 sound editor 	 creative professional responsible for selecting and assembling sound recordings	 
+/m/022g44 	 David Hemmings 	 actor, boy soprano, film director, film producer, screenwriter 	 /people/person/profession 	 /m/016z4k 	 singer-songwriter 	 musician who writes, composes and sings	 
+/m/0b13g7 	 Tim Bevan 	 New Zealand film producer 	 /film/producer/films_executive_produced 	 /m/02_kd 	 Four Weddings and a Funeral 	 1994 film by Mike Newell	 
+/m/0fv89q 	 28th Academy Awards 	 None 	 /award/award_ceremony/awards_presented./award/award_honor/award 	 /m/018wng 	 Academy Award for Best Documentary, Short Subject 	 None	 
+/m/0tygl 	 Pittsfield 	 city in Massachusetts 	 /location/hud_foreclosure_area/hhuniv./measurement_unit/dated_integer/source 	 /m/0jbk9 	 United States Department of Housing and Urban Development 	 None	 
+/m/096lf_ 	 Ty Burrell 	 American actor and comedian 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/0404wqb 	 Ariel Winter 	 American actress and singer	 
+/m/04zx3q1 	 Doctor of Philosophy 	 postgraduate academic degree awarded by universities in many countries 	 /education/educational_degree/people_with_this_degree./education/education/institution 	 /m/0gl6f 	 University of Warwick 	 public research university located in Coventry, United Kingdom	 
+/m/02b9g4 	 Ryan Seacrest 	 Television and radio host; television producer 	 /people/person/profession 	 /m/03gjzk 	 television producer 	 occupation within video production for TV	 
+/m/0ylsr 	 Corpus Christi College 	 college of the University of Oxford 	 /location/location/containedby 	 /m/05l5n 	 Oxford 	 city in Oxfordshire, England	 
+/m/03c7tr1 	 Golden Raspberry Award for Worst Actress 	 None 	 /award/award_category/nominees./award/award_nomination/nominated_for 	 /m/02725hs 	 Captain Corelli's Mandolin 	 2001 film by John Madden	 
+/m/0dgd_ 	 cinematographer 	 chief over the camera and lighting crews working on a film 	 /people/profession/people_with_this_profession 	 /m/04qvl7 	 Roger Deakins 	 British cinematographer	 
+/m/02z4b_8 	 Adele 	 British singer-songwriter 	 /people/person/nationality 	 /m/02jx1 	 England 	 country in north-west Europe, part of the United Kingdom	 
+/m/01xqw 	 cello 	 musical instrument 	 /music/instrument/instrumentalists 	 /m/024zq 	 Charles Mingus Jr. 	 American jazz double bassist, composer and bandleader	 
+/m/03_8kz 	 Lou Grant 	 television series 	 /award/award_nominated_work/award_nominations./award/award_nomination/award_nominee 	 /m/03xp8d5 	 James L. Brooks 	 American director, producer and screenwriter	 
+/m/05k7sb 	 Massachusetts 	 state of the United States of America 	 /government/political_district/representatives./government/government_position_held/legislative_sessions 	 /m/05rrw9 	 First Continental Congress 	 1774 meeting of delegates from twelve British colonies of what would become the United States	 
+/m/0ws0h 	 Greenville 	 city in Washington County, Mississippi, United States 	 /location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source 	 /m/0jbk9 	 United States Department of Housing and Urban Development 	 None	 
+/m/09yrh 	 Jennifer Aniston 	 television and film actress from the United States 	 /celebrities/celebrity/celebrity_friends./celebrities/friendship/friend 	 /m/07cjqy 	 Justin Long 	 American actor	 
+/m/016017 	 Hercules 	 1997 American animated musical fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures 	 /film/film/starring./film/performance/actor 	 /m/018fwv 	 Matt Frewer 	 American Canadian actor	 
+/m/0jz71 	 My Man Godfrey 	 1936 American comedy-drama film directed by Gregory La Cava 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/03_3d 	 Japan 	 constitutional monarchy in East Asia	 
+/m/04z_x4v 	 Boris Leven 	 American art director and production designer 	 /award/award_nominee/award_nominations./award/award_nomination/nominated_for 	 /m/0m_mm 	 Giant 	 1956 American film directed by George Stevens	 
+/m/06fcqw 	 Bolt 	 2008 animated Disney film 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/06f32 	 Taiwan 	 state in East Asia	 
+/m/0l56b 	 Todd McFarlane 	 Canadian artist and entrepreneur 	 /people/person/profession 	 /m/01d_h8 	 film producer 	 person who supervises the overall process, creative and financial, of making a film	 
+/m/0226k3 	 Westfield Group 	 Australian shopping centre group 	 /base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location 	 /m/025r_t 	 Derby 	 city in Derbyshire, in the East Midlands region of England	 
+/m/016xh5 	 Hugh Grant 	 English actor and film producer 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/02fz3w 	 Martin Freeman 	 English actor	 
+/m/01x66d 	 Yanni 	 Greek pianist, keyboardist, composer, and music producer 	 /music/artist/genre 	 /m/02ntlj 	 crossover 	 term applied to musical works or performers combining two or more genres	 
+/m/0dq_5 	 chief executive officer 	 highest-ranking corporate officer or administrator 	 /business/job_title/people_with_this_title./business/employment_tenure/company 	 /m/01s73z 	 Comcast 	 American mass media company	 
+/m/0gs9p 	 Academy Award for Best Director 	 None 	 /award/award_category/winners./award/award_honor/ceremony 	 /m/0bzkgg 	 45th Academy Awards 	 None	 
+/m/0d_84 	 Val Kilmer 	 American actor 	 /award/award_nominee/award_nominations./award/award_nomination/nominated_for 	 /m/049mql 	 Alexander 	 2004 film by Oliver Stone	 
+/m/0hvvf 	 Bonnie and Clyde 	 1967 American biographical crime film 	 /award/award_nominated_work/award_nominations./award/award_nomination/award 	 /m/0f4x7 	 Academy Award for Best Actor 	 award presented annually by the Academy of Motion Picture Arts and Sciences	 
+/m/0pgjm 	 Michael McKean 	 American actor 	 /award/award_winner/awards_won./award/award_honor/award_winner 	 /m/021bk 	 Christopher Guest 	 British and American screenwriter, comedian, musician, director, and actor	 
+/m/02rf1y 	 Jeffrey Jones 	 actor 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/0785v8 	 John Hawkes 	 American actor	 
+/m/07l50vn 	 The Secret in Their Eyes 	 2009 film directed by Juan José Campanella 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/02vzc 	 Finland 	 country in Northern Europe	 
+/m/0gq9h 	 Academy Award for Best Picture 	 annual award from the Academy of Motion Picture Arts and Sciences (AMPAS) 	 /award/award_category/nominees./award/award_nomination/nominated_for 	 /m/0bm2x 	 The Lost Weekend 	 1945 film by Billy Wilder	 
+/m/0gq9h 	 Academy Award for Best Picture 	 annual award from the Academy of Motion Picture Arts and Sciences (AMPAS) 	 /award/award_category/nominees 	 /m/0bm2x 	 The Lost Weekend 	 1945 film by Billy Wilder	 
+/m/030vnj 	 Luke Wilson 	 American film actor 	 /base/popstra/celebrity/dated./base/popstra/dated/participant 	 /m/026c1 	 Drew Barrymore 	 American actress, director and producer	 
+/m/0bx0l 	 Lawrence of Arabia 	 1962 British film 	 /film/film/starring./film/performance/actor 	 /m/0b_fw 	 Anthony Quinn 	 Mexican American actor	 
+/m/0gqwc 	 Academy Award for Best Actress 	 award presented annually by the Academy of Motion Picture Arts and Sciences 	 /award/award_category/nominees./award/award_nomination/nominated_for 	 /m/0g5879y 	 Albert Nobbs 	 2011 film by Rodrigo García	 
+/m/012hw 	 attack 	 action intended to harm the goods or the life of others 	 /base/fight/crime_type/victims_of_this_crime_type 	 /m/0d3k14 	 John F. Kennedy 	 35th President of the United States of America	 
+/m/0cbd2 	 writer 	 person who uses written words to communicate ideas and to produce works of literature 	 /people/profession/people_with_this_profession 	 /m/0f_y9 	 John Denver 	 American singer, songwriter, activist, and humanitarian	 
+/m/02sdk9v 	 forward 	 association football position played near the opponent's goal 	 /sports/sports_position/players./sports/sports_team_roster/team 	 /m/0284h6 	 Millwall F.C. 	 English professional association football club	 
+/m/0gtt5fb 	 The Great Gatsby 	 2013 Australian-American film directed by Baz Luhrmann 	 /film/film/other_crew./film/film_crew_gig/film_crew_role 	 /m/02r96rf 	 visual effects supervisor 	 responsible for achieving the creative aims of the director and/or producers through the use of visual effects	 
+/m/0bmhvpr 	 The Descendants 	 2011 American drama film directed by Alexander Payne 	 /film/film/starring./film/performance/actor 	 /m/03xkps 	 Beau Bridges 	 actor and director from the United States	 
+/m/0jym0 	 The Last Picture Show 	 1971 film by Peter Bogdanovich 	 /award/award_nominated_work/award_nominations./award/award_nomination/award_nominee 	 /m/028lc8 	 Ben Johnson 	 American film actor (1918-1996)	 
+/m/04g51 	 literature 	 written work of art 	 /award/award_discipline/awards_in_this_discipline 	 /m/02662b 	 Nebula Award for Best Novelette 	 award for the best science fiction or fantasy fiction in the United States	 
+/m/04bfg 	 Kent State University 	 university 	 /education/educational_institution/colors 	 /m/01l849 	 gold 	 color	 
+/m/02zjd 	 F. Scott Fitzgerald 	 American novelist and screenwriter 	 /influence/influence_node/influenced 	 /m/03772 	 George R. R. Martin 	 American writer, screenwriter and television producer	 
+/m/0mwxl 	 Butler County 	 county in Pennsylvania, United States of America 	 /location/location/containedby 	 /m/05tbn 	 Pennsylvania 	 state of the United States	 
+/m/0280061 	 This Is England 	 2006 British drama film written and directed by Shane Meadows 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/03_3d 	 Japan 	 constitutional monarchy in East Asia	 
+/m/0cmf0m0 	 Puss in Boots 	 2011 animated adventure comedy film 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/07t21 	 Ukraine 	 country in Eastern Europe	 
+/m/0l14qv 	 synthesizer 	 electronic instrument capable of producing a wide range of sounds 	 /music/performance_role/track_performances./music/track_contribution/role 	 /m/01rhl 	 classical guitar 	 acoustic wooden guitar with wide neck, strings made of nylon	 
+/m/0dqzkv 	 Leon Shamroy 	 American cinematographer 	 /award/award_winner/awards_won./award/award_honor/honored_for 	 /m/03bdkd 	 Wilson 	 1944 biographical film	 
+/m/026t6 	 drum 	 type of musical instrument of the percussion family 	 /music/performance_role/track_performances./music/track_contribution/role 	 /m/0680x0 	 string 	 musical instrument part	 
+/m/0f4yh 	 Raiders of the Lost Ark 	 1981 film by Steven Spielberg 	 /award/award_winning_work/awards_won./award/award_honor/award_winner 	 /m/09pjnd 	 Richard Edlund 	 American special effects cinematographer	 
+/m/02f8lw 	 Ally Sheedy 	 American actress 	 /people/person/education./education/education/major_field_of_study 	 /m/02822 	 drama 	 artwork intended for performance, formal type of literature	 
+/m/0cb77r 	 Thomas Little 	 set decorator 	 /award/award_winner/awards_won./award/award_honor/honored_for 	 /m/03bdkd 	 Wilson 	 1944 biographical film	 
+/m/024_vw 	 Charles B. Rangel 	 Recipient of the Purple Heart and politician 	 /people/person/spouse_s./people/marriage/type_of_union 	 /m/04ztj 	 marriage 	 social union or legal contract between people called spouses that creates kinship	 
+/m/0gq_d 	 Academy Award for Best Animated Short Film 	 None 	 /award/award_category/winners./award/award_honor/ceremony 	 /m/0bzkgg 	 45th Academy Awards 	 None	 
+/m/0klh7 	 Harvey Keitel 	 American actor 	 /film/actor/film./film/performance/film 	 /m/03z20c 	 Little Nicky 	 2000 film by Steven Brill	 
+/m/02r96rf 	 visual effects supervisor 	 responsible for achieving the creative aims of the director and/or producers through the use of visual effects 	 /film/film_job/films_with_this_crew_job./film/film_crew_gig/film 	 /m/02y_lrp 	 The Love Guru 	 2008 film by Marco Schnabel	 
+/m/01nd6v 	 Phil LaMarr 	 American actor, voice actor, comedian and impressionist 	 /people/person/profession 	 /m/0np9r 	 voice actor 	 person who provides voice-overs for a character in films, animation, video games or in other media	 
+/m/07_m2 	 Vincent van Gogh 	 Dutch post-Impressionist painter (1853–1890) 	 /people/person/ethnicity 	 /m/05l3g_ 	 Dutch people 	 ethnic group	 
+/m/0sxfd 	 Terms of Endearment 	 1983 drama film 	 /film/film/estimated_budget./measurement_unit/dated_money_value/currency 	 /m/09nqf 	 United States dollar 	 currency of the United States of America	 
+/m/048cl 	 Karl Marx 	 German philosopher, economist, sociologist, journalist and revolutionary socialist 	 /people/deceased_person/place_of_death 	 /m/04jpl 	 London 	 capital of England and the United Kingdom	 
+/m/0gqyl 	 Academy Award for Best Supporting Actress 	 award presented annually by the Academy of Motion Picture Arts and Sciences 	 /award/award_category/winners./award/award_honor/honored_for 	 /m/0b1y_2 	 Dreamgirls 	 2006 film by Bill Condon	 
+/m/09l65 	 None 	 None 	 /people/profession/people_with_this_profession 	 /m/05qhnq 	 Mick Harvey 	 Australian musician	 
+/m/0bh8yn3 	 Green Lantern 	 2011 American superhero film 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/07ssc 	 United Kingdom 	 country in Europe	 
+/m/0cq806 	 A Man for All Seasons 	 1966 film by Fred Zinnemann 	 /film/film/genre 	 /m/07s9rl0 	 drama film 	 film genre	 
+/m/01wj92r 	 Ricky Nelson 	 actor, musician, singer 	 /people/person/education./education/education/institution 	 /m/065y4w7 	 University of Southern California 	 private research university in Los Angeles, California, United States	 
+/m/0h32q 	 Vanessa Redgrave 	 English actress 	 /film/actor/film./film/performance/film 	 /m/0ctb4g 	 Atonement 	 2007 British romantic drama war film	 
+/m/037w7r 	 Geraldine Chaplin 	 British actress 	 /award/award_nominee/award_nominations./award/award_nomination/nominated_for 	 /m/016z5x 	 Chaplin 	 1992 film by Richard Attenborough	 
+/m/0pd64 	 The French Connection 	 1971 film by William Friedkin 	 /film/film/release_date_s 	 /m/082fr 	 West Germany 	 Federal Republic of Germany between 1949-1990	 
+/m/02py8_w 	 Illinois Fighting Illini men's basketball 	 men's basketball team of the University of Illinois 	 /basketball/basketball_team/roster./basketball/basketball_roster_position/position 	 /m/03558l 	 shooting guard 	 position on a basketball team	 
+/m/078bz 	 Syracuse University 	 university located in Syracuse, New York, United States 	 /education/educational_institution/students_graduates./education/education/student 	 /m/04t969 	 Peter Weller 	 American actor	 
+/m/02b5_l 	 teen film 	 film genre, the films usually involve adolesent characters and/or made for viewers of the same age 	 /film/film_genre/films_in_this_genre 	 /m/07ykkx5 	 The Last Song 	 2010 film by Julie Anne Robinson	 
+/m/03_lsr 	 Panama national football team 	 men's national association football team representing Panama 	 /sports/sports_team/roster./soccer/football_roster_position/position 	 /m/02_j1w 	 defender 	 association football position played near the player's team's own goal	 
+/m/0b13g7 	 Tim Bevan 	 New Zealand film producer 	 /film/producer/film 	 /m/0ddcbd5 	 Johnny English Reborn 	 2011 British spy comedy film	 
+/m/0l14qv 	 synthesizer 	 electronic instrument capable of producing a wide range of sounds 	 /music/performance_role/track_performances./music/track_contribution/role 	 /m/0dwtp 	 glockenspiel 	 percussion instrument composed of a set of tuned keys arranged in the fashion of the keyboard of a piano	 
+/m/0160nk 	 Tulane University 	 private university in New Orleans, Louisiana, United States 	 /organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency 	 /m/09nqf 	 United States dollar 	 currency of the United States of America	 
+/m/026w398 	 Purdue Boilermakers men's basketball 	 men's basketball team of Purdue University 	 /base/marchmadness/ncaa_basketball_team/ncaa_tournament_seeds./base/marchmadness/ncaa_tournament_seed/tournament 	 /m/0b_6x2 	 1993 NCAA Men's Division I Basketball Tournament 	 None	 
+/m/03mp9s 	 Michelle Williams 	 American actor 	 /people/person/places_lived./people/place_lived/location 	 /m/050l8 	 Montana 	 state of the United States of America	 
+/m/0k7tq 	 Dial M for Murder 	 1954 film by Alfred Hitchcock 	 /award/award_winning_work/awards_won./award/award_honor/honored_for 	 /m/0h3k3f 	 The Country Girl 	 1954 film by George Seaton	 
+/m/0n8bn 	 Brent Spiner 	 actor 	 /film/actor/film./film/performance/film 	 /m/0ds2n 	 Independence Day 	 1996 US science fiction film	 
+/m/0215n 	 cartoon 	 form of two-dimensional illustrated visual art 	 /tv/tv_genre/programs 	 /m/05f7w84 	 Kid vs. Kat 	 television series	 
+/m/05g49 	 New York Jets 	 National Football League franchise in East Rutherford, New Jersey 	 /american_football/football_team/current_roster./american_football/football_roster_position/position 	 /m/023wyl 	 cornerback 	 defensive position in American and Canadian football	 
+/m/09d4_ 	 Kyoto 	 city in Japan 	 /location/location/people_born_here 	 /m/01hc9_ 	 Haruki Murakami 	 Japanese author, novelist	 
+/m/0dc95 	 Oakland 	 port city and county seat of Alameda County, California, United States 	 /sports/sports_team_location/teams 	 /m/05m_8 	 Oakland Athletics 	 baseball team and Major League Baseball franchise in Oakland, California, United States	 
+/m/0151w_ 	 Ben Affleck 	 American film actor, director and screenwriter 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/03f1zdw 	 Colin Firth 	 English actor	 
+/m/047p798 	 Whip It 	 2009 film by Drew Barrymore 	 /film/film/country 	 /m/09c7w0 	 United States of America 	 federal republic in North America	 
+/m/0165v 	 Bolivia 	 country in South America 	 /location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency 	 /m/09nqf 	 United States dollar 	 currency of the United States of America	 
+/m/02q253 	 Marshall University 	 university 	 /education/educational_institution/campuses 	 /m/02q253 	 Marshall University 	 university	 
+/m/0bynt 	 track and field 	 sport involving various running, jumping and throwing disciplines 	 /olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics 	 /m/0jkvj 	 1976 Summer Olympics 	 games of the XXI Olympiad, celebrated in Montréal in 1976	 
+/m/0342h 	 guitar 	 type of string instrument 	 /music/performance_role/track_performances./music/track_contribution/contributor 	 /m/0bkf4 	 Bob Marley 	 Jamaican singer, songwriter, musician	 
+/m/024y8p 	 University of North Carolina at Charlotte 	 public research university in Charlotte, North Carolina, United States 	 /education/university/local_tuition./measurement_unit/dated_money_value/currency 	 /m/09nqf 	 United States dollar 	 currency of the United States of America	 
+/m/0c663 	 Apulia 	 region of Italy 	 /location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency 	 /m/02l6h 	 Euro 	 European currency	 
+/m/0661ql3 	 Inception 	 2010 science fiction film 	 /award/award_winning_work/awards_won./award/award_honor/award 	 /m/0p9sw 	 Academy Award for Best Sound Mixing 	 None	 
+/m/01vrkdt 	 Wendy Melvoin 	 American musician 	 /people/person/profession 	 /m/09jwl 	 musician 	 person who performs or composes music	 
+/m/0c41qv 	 Regency Enterprises 	 Los Angeles-based entertainment company 	 /film/production_company/films 	 /m/08s6mr 	 Fantastic Mr. Fox 	 2009 stop-motion animated film	 
+/m/05zvzf3 	 A Prophet 	 2009 film by Jacques Audiard 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/06mzp 	 Switzerland 	 federal republic in Western Europe	 
+/m/02ppm4q 	 BAFTA Award for Best Actress in a Supporting Role 	 award 	 /award/award_category/nominees./award/award_nomination/nominated_for 	 /m/016z43 	 The Fisher King 	 1991 film by Terry Gilliam	 
+/m/01bcp7 	 urinary bladder cancer 	 urinary system cancer that results in malignant growth located in the urinary bladder 	 /people/cause_of_death/people 	 /m/040z9 	 Jack Lemmon 	 American actor	 
+/m/05b1610 	 Golden Raspberry Award for Worst Screenplay 	 None 	 /award/award_category/nominees./award/award_nomination/award_nominee 	 /m/09gffmz 	 Andrew Scheinman 	 American film director	 
+/m/02kdv5l 	 action film 	 film genre 	 /film/film_genre/films_in_this_genre 	 /m/04sntd 	 The Jackal 	 1997 action thriller movie	 
+/m/01w02sy 	 Courtney Love 	 American punk singer-songwriter, musician, actress, and artist 	 /music/artist/genre 	 /m/016jny 	 folk rock 	 fusion genre of folk and rock music	 
+/m/015cxv 	 Los Lobos 	 American Chicano rock band 	 /music/musical_group/member./music/group_membership/role 	 /m/01vj9c 	 bass 	 any of a number of instruments which produce low pitched tones	 
+/m/0c_j9x 	 Murder on the Orient Express 	 1974 film directed by Sidney Lumet 	 /film/film/starring./film/performance/actor 	 /m/06mr6 	 Sean Connery 	 Scottish actor and producer	 
+/m/0gqy2 	 Academy Award for Best Supporting Actor 	 one of the Academy Awards of Merit 	 /award/award_category/nominees./award/award_nomination/nominated_for 	 /m/01vfqh 	 Barton Fink 	 1991 film by Joel Coen, Ethan Coen	 
+/m/07sc6nw 	 Sucker Punch 	 2011 film by Zack Snyder 	 /film/film/distributors./film/film_film_distributor_relationship/distributor 	 /m/086k8 	 Warner Bros. 	 American producer of film, television, and music entertainment	 
+/m/03r8v_ 	 Filmfare Award for Best Actress 	 None 	 /award/award_category/nominees./award/award_nomination/award_nominee 	 /m/040nwr 	 Shilpa Shetty 	 Indian film actress	 
+/m/03y9ccy 	 Vince Gilligan 	 American writer, director and producer 	 /people/person/education./education/education/institution 	 /m/0bwfn 	 New York University 	 private research university in New York, NY, United States	 
+/m/0jm74 	 Chicago Bulls 	 American professional basketball team 	 /sports/sports_team/roster./basketball/basketball_roster_position/position 	 /m/01pv51 	 power forward 	 position in the sport of basketball	 
+/m/057__d 	 The Legend of Bagger Vance 	 2000 film by Robert Redford 	 /media_common/netflix_title/netflix_genres 	 /m/07s9rl0 	 drama film 	 film genre	 
+/m/0bl8l 	 Aston Villa F.C. 	 professional association football club based in Birmingham, England 	 /soccer/football_team/current_roster 	 /m/0dgrmp 	 goalkeeper 	 position in association football (soccer)	 
+/m/0c3351 	 suspense 	 feeling of uncertainty and anxiety about the outcome of certain actions 	 /media_common/netflix_genre/titles 	 /m/03wbqc4 	 The Taking of Pelham 123 	 2009 film by Tony Scott	 
+/m/047csmy 	 Transformers: Revenge of the Fallen 	 2009 science fiction film 	 /film/film/starring./film/performance/actor 	 /m/04hxyv 	 Charlie Adler 	 American voice actor and voice director	 
+/m/0bc71w 	 Tony Geiss 	 American TV writer, lyricist, producer and screenwriter 	 /award/award_winner/awards_won./award/award_honor/award_winner 	 /m/07d370 	 Mo Willems 	 American children's illustrator and writer	 
+/m/0cqh46 	 Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Miniseries or Television Movie 	 None 	 /award/award_category/nominees./award/award_nomination/award_nominee 	 /m/0205dx 	 Danny Glover 	 American actor, film director and political activist	 
+/m/0311wg 	 Gary Dourdan 	 American actor 	 /people/person/ethnicity 	 /m/07bch9 	 Scottish American 	 ethnic group	 
+/m/0chghy 	 Australia 	 country in Oceania 	 /government/governmental_jurisdiction/governing_officials./government/government_position_held/district_represented 	 /m/0847q 	 Western Australia 	 state in Australia	 
+/m/0j80w 	 The Quiet Man 	 1952 film by John Ford 	 /film/film/estimated_budget./measurement_unit/dated_money_value/currency 	 /m/09nqf 	 United States dollar 	 currency of the United States of America	 
+/m/0cz8mkh 	 Final Destination 5 	 2011 film by Steven Quale 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/04gzd 	 Lithuania 	 republic in Northeastern Europe	 
+/m/02rmd_2 	 Zack and Miri Make a Porno 	 2008 romantic sex comedy film 	 /film/film/film_festivals 	 /m/04grdgy 	 2008 Toronto International Film Festival 	 2008 film festival edition	 
+/m/016tvq 	 The Cosby Show 	 American television situation comedy 	 /media_common/netflix_title/netflix_genres 	 /m/07c52 	 television 	 telecommunication medium for transmitting and receiving moving images	 
+/m/02_286 	 New York City 	 city in state of New York, United States 	 /location/location/contains 	 /m/05njyy 	 New York Law School 	 None	 
+/m/07vc_9 	 Danny Huston 	 American actor, director 	 /award/award_nominee/award_nominations./award/award_nomination/nominated_for 	 /m/049xgc 	 The Aviator 	 2004 American biographical drama film	 
+/m/0c31_ 	 Andrzej Wajda 	 Polish film director 	 /people/person/profession 	 /m/02jknp 	 film director 	 occupation of a person who directs a film	 
+/m/05mcjs 	 Julian Fellowes 	 English actor, dramatist, director, novelist, producer and screenwriter 	 /award/award_winner/awards_won./award/award_honor/award 	 /m/03hl6lc 	 Writers Guild of America Award for Best Original Screenplay 	 None	 
+/m/02gdjb 	 Grammy Award for Best Pop Instrumental Performance 	 None 	 /award/award_category/winners./award/award_honor/award_winner 	 /m/01l3mk3 	 Marvin Hamlisch 	 American composer and conductor	 
+/m/0h7t36 	 Synecdoche, New York 	 2008 film by Charlie Kaufman 	 /film/film/starring./film/performance/actor 	 /m/03mp9s 	 Michelle Williams 	 American actor	 
+/m/02l7c8 	 romance film 	 film genre 	 /film/film_genre/films_in_this_genre 	 /m/0322yj 	 The Terminal 	 2004 film by Steven Spielberg	 
+/m/01l9p 	 Charlize Theron 	 film actress and producer, former fashion model 	 /film/actor/film./film/performance/film 	 /m/02qhqz4 	 Astro Boy 	 2009 animated film	 
+/m/0fsb_6 	 Michigan Wolverines football 	 football team of the University of Michigan 	 /sports/sports_team/roster./american_football/football_roster_position/position 	 /m/06b1q 	 quarterback 	 position in gridiron football	 
+/m/0fbdb 	 Fragaria 	 genus of plants 	 /food/food/nutrients./food/nutrition_fact/nutrient 	 /m/0h1yy 	 L-Serine 	 chemical compound	 
+/m/08mbj32 	 None 	 None 	 /common/annotation_category/annotations./common/webpage/topic 	 /m/016zwt 	 Nepal 	 country in South Asia located between India and China	 
+/m/0155w 	 blues 	 musical form and a music genre 	 /music/genre/artists 	 /m/0cg9y 	 Tom Jones 	 Welsh singer	 
+/m/02hrh0_ 	 Honolulu 	 county seat in Honolulu County, Hawaii, USA and Hawaii federated state capital city 	 /base/biblioness/bibs_location/state 	 /m/03gh4 	 Hawaii 	 state of the United States of America, located on an archipelago in the Pacific Ocean	 
+/m/07y_7 	 violin 	 bowed string instrument, usually with four strings tuned in perfect fifths 	 /music/instrument/instrumentalists 	 /m/0473q 	 Jeff Lynne 	 British rock musician	 
+/m/02mzg9 	 University of Denver 	 private university in the Rocky Mountain Region of the United States 	 /education/educational_institution/students_graduates./education/education/degree 	 /m/02_xgp2 	 doctoral degree 	 academic or professional degree	 
+/m/040njc 	 BAFTA Award for Best Film 	 award 	 /award/award_category/nominees./award/award_nomination/nominated_for 	 /m/0cz_ym 	 American Gangster 	 2007 film by Ridley Scott	 
+/m/029q3k 	 Notts County F.C. 	 English professional association football club based in Nottingham 	 /sports/sports_team/roster./soccer/football_roster_position/player 	 /m/0d9v9q 	 Jonathan Forte 	 footballer	 
+/m/054krc 	 Golden Globe Award for Best Original Score 	 award 	 /award/award_category/nominees./award/award_nomination/nominated_for 	 /m/08xvpn 	 The Color Purple 	 1985 drama film	 
+/m/0fzrhn 	 21st Academy Awards 	 None 	 /award/award_ceremony/awards_presented./award/award_honor/award 	 /m/0czp_ 	 Academy Award for Best Story 	 None	 
+/m/03bxwtd 	 Ryan Tedder 	 American singer-songwriter and record producer 	 /music/group_member/membership./music/group_membership/role 	 /m/05r5c 	 piano 	 musical instrument	 
+/m/01wcp_g 	 John Legend 	 singer–songwriter, pianist 	 /influence/influence_node/influenced_by 	 /m/03f3_p3 	 Nina Simone 	 American singer, songwriter, pianist, arranger, and civil rights activist	 
+/m/0glnm 	 The Gay Divorcee 	 1934 film by Mark Sandrich 	 /film/film/genre 	 /m/05p553 	 comedy film 	 genre of film in which the main emphasis is on humour	 
+/m/0fz27v 	 Bernie Brillstein 	 film producer 	 /people/person/profession 	 /m/01d_h8 	 film producer 	 person who supervises the overall process, creative and financial, of making a film	 
+/m/047d21r 	 The Fighter 	 2010 biographical sports drama film directed by David O. Russell 	 /award/award_winning_work/awards_won./award/award_honor/award_winner 	 /m/04wx2v 	 Melissa Leo 	 American actress	 
+/m/03w9sgh 	 James D. Parriott 	 American film director 	 /tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type 	 /m/0ckd1 	 executive producer 	 profession	 
+/m/0739y 	 Spike Milligan 	 British-Irish comedian, writer, musician, poet, playwright, soldier and actor 	 /film/actor/film./film/performance/special_performance_type 	 /m/0147fv 	 None 	 None	 
+/m/03rjj 	 Italy 	 Republic in Southern Europe 	 /olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/sport 	 /m/0bynt 	 track and field 	 sport involving various running, jumping and throwing disciplines	 
+/m/026g73 	 bongo drum 	 type of drum 	 /music/performance_role/track_performances./music/track_contribution/role 	 /m/01w4dy 	 darbuka 	 Specific type of generic goblet drum	 
+/m/015l4k 	 1968 Winter Olympics 	 10th edition of Winter Olympics, held in Grenoble (France) in 1968 	 /olympics/olympic_games/sports 	 /m/03tmr 	 ice hockey 	 team sport played on ice using sticks and skates	 
+/m/07gp9 	 Terminator 2: Judgment Day 	 1991 science fiction action film 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/0d0vqn 	 Sweden 	 constitutional monarchy in Northern Europe	 
+/m/0ccd3x 	 West Side Story 	 1961 musical film 	 /film/film/directed_by 	 /m/0hsmh 	 Robert Wise 	 American film director, film producer and film editor	 
+/m/01lv85 	 3rd Rock from the Sun 	 American sitcom 	 /award/award_nominated_work/award_nominations./award/award_nomination/award_nominee 	 /m/06j0md 	 James Burrows 	 American television director known for situation comedy, from the 1970s	 
+/m/09b3v 	 The Walt Disney Company 	 American diversified multinational mass media corporation 	 /organization/organization/leadership./organization/leadership/role 	 /m/0dq_5 	 chief executive officer 	 highest-ranking corporate officer or administrator	 
+/m/0dll_t2 	 This Means War 	 2012 film by McG 	 /film/film/starring./film/performance/actor 	 /m/07m9cm 	 Til Schweiger 	 German actor	 
+/m/01kjr0 	 Twin Peaks: Fire Walk with Me 	 1992 film by David Lynch 	 /film/film/genre 	 /m/0424mc 	 experimental film 	 cinematic works that are experimental form or content	 
+/m/09l9tq 	 Chris Killen 	 New Zealand footballer 	 /sports/pro_athlete/teams./sports/sports_team_roster/team 	 /m/01kwhf 	 Norwich City F.C. 	 Professional association football club based in Norwich, Norfolk, England	 
+/m/09c7w0 	 United States of America 	 federal republic in North America 	 /location/location/contains 	 /m/0dzst 	 Duke University 	 private university in Durham, North Carolina, United States	 
+/m/01w40h 	 Mercury Records 	 record label 	 /music/record_label/artist 	 /m/048xh 	 Kraftwerk 	 German electronic music band	 
+/m/042l3v 	 Herbert Ross 	 American film director 	 /award/award_nominee/award_nominations./award/award_nomination/nominated_for 	 /m/06x77g 	 The Turning Point 	 1977 film by Herbert Ross	 
+/m/09sdmz 	 Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Supporting Role 	 None 	 /award/award_category/nominees./award/award_nomination/award_nominee 	 /m/0341n5 	 Thomas Haden Church 	 American actor, director, writer	 
+/m/05c26ss 	 Madagascar 3: Europe's Most Wanted 	 2012 American 3D computer-animated comedy film 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/01ls2 	 Colombia 	 country in South America	 
+/m/01c7y 	 Bengali 	 language native to the region of eastern South Asia known as Bengal 	 /language/human_language/language_family 	 /m/03v09 	 None 	 None	 
+/m/06qln 	 stop-motion 	 animation technique to make a physically manipulated object appear to move on its own 	 /film/film_genre/films_in_this_genre 	 /m/07ghq 	 The Terminator 	 1984 science fiction film by James Cameron	 
+/m/025s0zp 	 manganese 	 chemical element with the atomic number of 25 	 /medicine/drug_ingredient/active_moiety_of_drug 	 /m/025s0zp 	 manganese 	 chemical element with the atomic number of 25	 
+/m/05mrf_p 	 The Ghost Writer 	 2010 film by Roman Polanski 	 /media_common/netflix_title/netflix_genres 	 /m/02qfv5d 	 political thriller 	 thriller that is set against the backdrop of a political power struggle	 
+/m/054g1r 	 Walt Disney Studios Motion Pictures 	 American motion picture distribution company 	 /film/film_distributor/films_distributed./film/film_film_distributor_relationship/film 	 /m/01_1hw 	 Die Hard with a Vengeance 	 1995 American action thriller film	 
+/m/01mjq 	 Czech Republic 	 republic in Central Europe 	 /location/country/languages_spoken 	 /m/02ztjwg 	 Hungarian 	 language spoken in and around Hungary	 
+/m/022xml 	 Furman University 	 private liberal arts college in Greenville, South Carolina, United States 	 /organization/organization/headquarters./location/mailing_address/citytown 	 /m/0_lr1 	 Greenville 	 county seat of Greenville County, South Carolina, United States	 
+/m/0342h 	 guitar 	 type of string instrument 	 /music/performance_role/regular_performances./music/group_membership/member 	 /m/01wl38s 	 Nick Cave 	 Australian musician	 
+/m/0gmblvq 	 Game Change 	 television film 	 /film/film/starring./film/performance/actor 	 /m/01kb2j 	 Julianne Moore 	 American actress	 
+/m/01wbg84 	 Steve Buscemi 	 American actor, director and writer 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/06dn58 	 Bobby Cannavale 	 American actor	 
+/m/064vjs 	 canoe sprint 	 discipline in sport of canoeing and kayaking 	 /olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country 	 /m/06srk 	 Senegal 	 country in Western Africa	 
+/m/01y8d4 	 Jerry Siegel 	 American co-creator of Superman 	 /tv/tv_program_creator/programs_created 	 /m/03g9xj 	 Smallville 	 2001–2011 American television series	 
+/m/02jknp 	 film director 	 occupation of a person who directs a film 	 /people/profession/people_with_this_profession 	 /m/03ysmg 	 Bobby Farrelly 	 American film producer	 
+/m/02qnhk1 	 Ranjeet 	 Indian actor 	 /people/person/gender 	 /m/05zppz 	 male organism 	 determined sex of an animal or plant. Use Q6581097 for a male human	 
+/m/02nzb8 	 midfielder 	 association football position played on both ends of the field 	 /sports/sports_position/players./soccer/football_roster_position/team 	 /m/03fn8k 	 FC Pyunik 	 football club in Armenia	 
+/m/0509bl 	 Julia Ormond 	 British actress 	 /film/actor/film./film/performance/film 	 /m/06g77c 	 Inland Empire 	 2006 film by David Lynch	 
+/m/0l5mz 	 international relations 	 studies about relationships between two or more states 	 /education/field_of_study/students_majoring./education/education/institution 	 /m/0p7tb 	 Mount Holyoke College 	 liberal arts college in the United States	 
+/m/02rv_dz 	 Juno 	 2007 Canadian-American comedy-drama film 	 /award/award_nominated_work/award_nominations./award/award_nomination/award_nominee 	 /m/0c00lh 	 Jason Reitman 	 director; writer; actor	 
+/m/06cvj 	 romantic comedy 	 film genre 	 /film/film_genre/films_in_this_genre 	 /m/0gbfn9 	 Fast Food Nation 	 2006 American-British drama film	 
+/m/05dbf 	 Nicole Kidman 	 Australian-American actress and film producer 	 /film/actor/film./film/performance/film 	 /m/034qbx 	 The Stepford Wives 	 2004 film by Frank Oz	 
+/m/0fvzg 	 Oklahoma City 	 capital city of state of Oklahoma, United States; county seat of Oklahoma County, Oklahoma 	 /base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed 	 /m/01t032 	 Golden Retriever 	 dog breed	 
+/m/023wyl 	 cornerback 	 defensive position in American and Canadian football 	 /sports/sports_position/players./sports/sports_team_roster/team 	 /m/02wvfxl 	 Boston College Eagles football 	 None	 
+/m/03nx8mj 	 Old Dogs 	 2009 film by Walt Becker 	 /film/film/other_crew./film/film_crew_gig/film_crew_role 	 /m/09zzb8 	 make-up artist 	 artist whose medium is the human body	 
+/m/09c7w0 	 United States of America 	 federal republic in North America 	 /government/governmental_jurisdiction/governing_officials./government/government_position_held/office_holder 	 /m/0c_md_ 	 Gerald Ford 	 American politician, 38th President of the United States (in office from 1974 to 1977)	 
+/m/01cx_ 	 Boston 	 city in Massachusetts 	 /location/place_with_neighborhoods/neighborhoods 	 /m/01gr00 	 Roxbury 	 dissolved municipality and current neighborhood of Boston, Massachusetts, United States	 
+/m/0cbd2 	 writer 	 person who uses written words to communicate ideas and to produce works of literature 	 /people/profession/people_with_this_profession 	 /m/0jt86 	 David Brin 	 novelist, short story writer	 
+/m/01w272y 	 Raphael Saadiq 	 American singer, songwriter, musician, guitarist, and record producer 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/0770cd 	 James Poyser 	 Musician and songwriter	 
+/m/0d6lp 	 San Francisco 	 consolidated city-county in California, United States 	 /location/location/people_born_here 	 /m/05zrx3v 	 Gary Lucchesi 	 American film producer	 
+/m/0pc62 	 Pearl Harbor 	 2001 film by Michael Bay 	 /film/film/edited_by 	 /m/02qggqc 	 Chris Lebenzon 	 American film editor	 

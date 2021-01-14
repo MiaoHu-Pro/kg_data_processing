@@ -5406,7 +5406,7 @@ id 	 symbal	     lable	     description
 5404 	 /m/02zfdp 	 Ian McShane	 English actor, director, producer and voice artist 
 5405 	 /m/02zfg3 	 Charles Durning	 American actor 
 5406 	 /m/02zft0 	 Alan Bergman	 American lyricist 
-5407 	 /m/02zhkz 	 Lance Henriksen	 American actor 
+5407 	 /m/02zhkz 	 Lance Henriksen	 American actor
 5408 	 /m/02zj61 	 Diane Warren	 American songwriter 
 5409 	 /m/02zjd 	 F. Scott Fitzgerald	 American novelist and screenwriter 
 5410 	 /m/02zk08 	 Fame	 1980 film by Alan Parker 

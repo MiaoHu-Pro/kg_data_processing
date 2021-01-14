@@ -1,0 +1,10 @@
+/m/099t8j 	 Broadcast Film Critics Association Award for Best Supporting Actress 	 None 	 /award/award_category/winners 	 /m/013knm 	 Catherine Zeta-Jones 	 Welsh-American actress and singer	 
+/m/01x_d8 	 Mena Suvari 	 Actress, fashion designer, model 	 /award/award_nominee/award_nominations./award/award_nomination/award_nominee 	 /m/05p5nc 	 Frances Conroy 	 American actress	 
+/m/03ttn0 	 Iowa Hawkeyes football 	 football team of the University of Iowa 	 /american_football/football_historical_roster_position/position_s 	 /m/01_9c1 	 defensive back 	 position in American football and Canadian football	 
+/m/05r5c 	 piano 	 musical instrument 	 //music/track_contribution/contributor 	 /m/018y2s 	 Dave Matthews 	 American singer-songwriter, musician and actor	 
+/m/0gq9h 	 Academy Award for Best Picture 	 annual award from the Academy of Motion Picture Arts and Sciences (AMPAS) 	 /award/actor 	 /m/0bm2x 	 The Lost Weekend 	 1945 film by Billy Wilder	 
+/m/0sxfd 	 Terms of Endearment 	 1983 drama film 	 /measurement_unit/dated_money_value/currency 	 /m/09nqf 	 United States dollar 	 currency of the United States of America	 
+/m/0pd64 	 The French Connection 	 1971 film by William Friedkin 	 /film/film/release_date_s./film/film_regional_release_date/film_release_region 	 /m/082fr 	 West Germany 	 Federal Republic of Germany between 1949-1990	 
+/m/0342h 	 guitar 	 type of string instrument 	 /music/performance_role/track_performances 	 /m/0bkf4 	 Bob Marley 	 Jamaican singer, songwriter, musician	 
+/m/0bl8l 	 Aston Villa F.C. 	 professional association football club based in Birmingham, England 	 /soccer/football_team/current_roster./sports/sports_team_roster/position 	 /m/0dgrmp 	 goalkeeper 	 position in association football (soccer)	 
+/m/023wyl 	 cornerback 	 defensive position in American and Canadian football 	 /sports/sports_team_roster/team 	 /m/02wvfxl 	 Boston College Eagles football 	 None	 

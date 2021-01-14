@@ -198,7 +198,7 @@ def set_entity_pair(dataArry,entityPair_set):
 
     import multiprocessing as mp
     Pair_list = []
-    pool = mp.Pool(2)
+    pool = mp.Pool(4)
     Pair_list = pool.map(entity_pair_rel,[i for i in range(num_entity_pair)])
     #==========================
 
@@ -215,29 +215,30 @@ def split_test_train(pair_set,train_file_path,test_file_path):
     try:
         f_train = open(train_file_path,  'w')
         f_test = open(test_file_path,  'w')
-        f_all_entityPairs = open('./f_all_entityPairs.txt',  'w')
+        f_all_entityPairs = open('./FB15K/3800_entityPairs.txt',  'w')
 
     except IOError as err:
         print('file open error: {0}'.format(err))
 
     else:
 
-        for i in range(pair_set):
+        for i in range(len(pair_set)):
             X = pair_set[i]
 
-            f_all_entityPairs.writelines(['%s \t %s \t %s \t %s \t %s\t \n'% (X.H_Enti.symb,X.H_Enti.lable, X.Relset[x], X.T_Enti.symb, X.T_Enti.lable) for x in range(len(X.num_relations))])
+            f_all_entityPairs.writelines(['%s \t %s \t %s \t %s \t %s \t %s \t %s\t \n'% (X.H_Enti.symb,X.H_Enti.lable,X.H_Enti.description, X.Relset[x], X.T_Enti.symb, X.T_Enti.lable,X.T_Enti.description) for x in range(len(X.Relset))])
 
             if X.num_relations > 1:
-                index = np.random.random_integers(0,X.num_relations - 1)
+
+                index = np.random.random_integers(0,X.num_relations - 1) #随机移除一个关系，作为测试
 
                 relation_test = X.Relset.pop(index)
 
-                f_train.writelines(['%s \t %s \t %s \t %s \t %s\t \n'% (X.H_Enti.symb,X.H_Enti.lable, X.Relset[x], X.T_Enti.symb,X.T_Enti.lable) for x in range(len(X.num_relations))])
+                f_train.writelines(['%s \t %s \t %s \t %s \t %s \t %s \t %s\t \n'% (X.H_Enti.symb,X.H_Enti.lable,X.H_Enti.description, X.Relset[x], X.T_Enti.symb,X.T_Enti.lable,X.T_Enti.description) for x in range(len(X.Relset))])
 
-                f_test.writelines('%s \t %s \t %s \t %s \t %s\t \n'% (X.H_Enti.symb,X.H_Enti.lable, relation_test, X.T_Enti.symb,X.T_Enti.lable))
+                f_test.writelines('%s \t %s \t %s \t %s \t %s \t %s \t %s\t \n'% (X.H_Enti.symb,X.H_Enti.lable,X.H_Enti.description, relation_test, X.T_Enti.symb,X.T_Enti.lable,X.T_Enti.description))
 
             else:
-                f_train.writelines(['%s \t %s \t %s \t %s \t %s\t \n'% (X.H_Enti.symb, X.H_Enti.lable, X.Relset[x], X.T_Enti.symb,X.T_Enti.lable) for x in range(len(X.num_relations))])
+                f_train.writelines(['%s \t %s \t %s \t %s \t %s \t %s \t %s\t \n'% (X.H_Enti.symb, X.H_Enti.lable,X.H_Enti.description, X.Relset[x], X.T_Enti.symb,X.T_Enti.lable,X.T_Enti.description) for x in range(len(X.Relset))])
 
         f_train.close()
         f_test.close()
@@ -246,10 +247,10 @@ def split_test_train(pair_set,train_file_path,test_file_path):
 
 def main():
 
-    all_data_file = "./FB15K/all_triples.txt"
+    all_data_file = "./FB15K/3800_triples.txt"
 
-    train_file_path = "./train.txt"
-    test_file_path = "./test.txt"
+    train_file_path = "./FB15K/3800_train.txt"
+    test_file_path = "./FB15K/3800_test.txt"
     print("读取所有数据 \n")
     dataArry,relation_set,entity_set,entityPair_set = read_all_data(all_data_file)
 

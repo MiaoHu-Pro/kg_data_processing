@@ -1,0 +1,4 @@
+/m/0h7t36 	 Synecdoche, New York 	 2008 film by Charlie Kaufman 	 /award/award_winning_work/awards_won./award/award_honor/award_winner 	 /m/02d42t 	 Samantha Morton 	 English actress and film director	 
+/m/0gmblvq 	 Game Change 	 television film 	 /award/award_winning_work/awards_won./award/award_honor/award_winner 	 /m/01kb2j 	 Julianne Moore 	 American actress	 
+/m/0bx0l 	 Lawrence of Arabia 	 1962 British film 	 /film/film/runtime./film/film_cut/film_release_region 	 /m/09c7w0 	 United States of America 	 federal republic in North America	 
+/m/035qgm 	 Greece national football team 	 men's national association football team representing Greece 	 /sports/sports_team/roster./soccer/football_roster_position/position 	 /m/02_j1w 	 defender 	 association football position played near the player's team's own goal	 
