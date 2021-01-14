@@ -41,6 +41,11 @@ def read_all_data(path):
 
 global g_entityPair_set
 global g_dataArry
+global g_entiObjset
+global g_symb_list
+global g_h_data
+global g_t_data
+
 
 def entity_pair_rel(g_i):
 
@@ -49,15 +54,11 @@ def entity_pair_rel(g_i):
     dataArry = g_dataArry
 
 
-    entiObjset = obtain_entity_obj()
-    symb_list = []
-    for entiobj in entiObjset:
-        symb_list.append(entiobj.symb)
+    entiObjset = g_entiObjset
+    symb_list = g_symb_list
 
-    # print((symb_list))
-
-    h_data = dataArry[:,0]
-    t_data = dataArry[:,2]
+    h_data = g_h_data
+    t_data = g_t_data
 
 
 
@@ -191,6 +192,25 @@ def set_entity_pair(dataArry,entityPair_set):
     g_entityPair_set =  entityPair_set
     global g_dataArry
     g_dataArry = dataArry
+
+    global g_h_data
+    global g_t_data
+
+    g_h_data = g_dataArry[:,0]
+    g_t_data = g_dataArry[:,2]
+
+
+
+    global g_entiObjset
+    g_entiObjset = obtain_entity_obj()
+
+    global g_symb_list
+    g_symb_list = list()
+    for entiobj in g_entiObjset:
+        g_symb_list.append(entiobj.symb)
+
+
+
 
     import multiprocessing as mp
     Pair_list = []

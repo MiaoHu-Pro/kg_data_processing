@@ -10,7 +10,7 @@ def read_json(path):
     entity_list = list()
     with open(path, 'r') as f:
 
-        data = json.load(f) # 读取json
+        data = json.load(f)# 读取json
     #
     #
     for key,value in data.items():
