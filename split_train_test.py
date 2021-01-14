@@ -4,10 +4,6 @@
 from read_json import obtain_entity_obj
 import numpy as np
 import time
-import torch
-device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
-# model= model.to(device)
 
 
 from KGObject import EntiPairObj,Enti
@@ -110,12 +106,12 @@ def entity_pair_rel(g_i):
 
     pair = EntiPairObj(h_EntiObj=_entityPair_h,relation_list=rel_set, t_EntiObj=_entityPair_t)
 
-    if len(pair.Relset) >= 3:
-
-        print("Head lab,symb \n",pair.H_Enti.lable,pair.H_Enti.symb)
-        print("Relations \n",pair.Relset)
-        print("Tail lab \n",pair.T_Enti.lable,pair.T_Enti.symb)
-        print("-------------------------------")
+    # if len(pair.Relset) >= 3:
+    #
+    #     print("Head lab,symb \n",pair.H_Enti.lable,pair.H_Enti.symb)
+    #     print("Relations \n",pair.Relset)
+    #     print("Tail lab \n",pair.T_Enti.lable,pair.T_Enti.symb)
+    #     print("-------------------------------")
 
 
     return pair
@@ -251,7 +247,7 @@ def main():
 
     train_file_path = "./FB15K/3800_train.txt"
     test_file_path = "./FB15K/3800_test.txt"
-    print("读取所有数据 \n")
+    print("read all data \n")
     dataArry,relation_set,entity_set,entityPair_set = read_all_data(all_data_file)
 
     print(dataArry.shape)
@@ -259,7 +255,7 @@ def main():
     print("numble entity ",len(set(entity_set)))
     print("entityPair_set ",len(entityPair_set),len(set(entityPair_set)))
 
-    print("设置 entity pair，每对实体之间有若干个关系")
+    print("set entity pair，there are relations between entity pairs \n")
     pair_set = set_entity_pair(dataArry,list(entityPair_set))
 
     print(len(pair_set))
@@ -274,7 +270,7 @@ def main():
         print("Tail lab \n",pair_set[i].T_Enti.lable)
 
     """
-    print("分割训练集和测试集合，将多关系实体对中的一个关系作为测试")
+    print("split train and test , one of relations to be as test data \n")
     split_test_train(pair_set,train_file_path,test_file_path)
 
 
